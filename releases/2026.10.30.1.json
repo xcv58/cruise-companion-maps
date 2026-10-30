@@ -1,0 +1,3030 @@
+{
+  "version": "2026.10.30.1",
+  "snapshotDate": "2026-03-31",
+  "ports": [
+    {
+      "id": "abu-dhabi",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/abu-dhabi.98d313725113dfc470a7021bce0b8b36565b0dca027b3cf2fb3961146486d049.pmtiles",
+      "byteLength": 2106328,
+      "sha256": "98d313725113dfc470a7021bce0b8b36565b0dca027b3cf2fb3961146486d049",
+      "maxZoom": 13,
+      "bounds": [
+        54.13589356961069,
+        24.320337765001796,
+        54.53077243038932,
+        24.679662234998204
+      ]
+    },
+    {
+      "id": "adelaide",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/adelaide.88f36063484da51661bdf5a8b878206c435b27c878284890455dc6129b93e05d.pmtiles",
+      "byteLength": 3085863,
+      "sha256": "88f36063484da51661bdf5a8b878206c435b27c878284890455dc6129b93e05d",
+      "maxZoom": 13,
+      "bounds": [
+        138.28107348099743,
+        -35.029662234998206,
+        138.71892651900257,
+        -34.6703377650018
+      ]
+    },
+    {
+      "id": "alexandria",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/alexandria.8efee32a615014851d6620c76138460d8b474797a6668bc1f163313cc065c0c0.pmtiles",
+      "byteLength": 1999973,
+      "sha256": "8efee32a615014851d6620c76138460d8b474797a6668bc1f163313cc065c0c0",
+      "maxZoom": 13,
+      "bounds": [
+        29.623365159225763,
+        30.987004765001796,
+        30.043300840774236,
+        31.346329234998205
+      ]
+    },
+    {
+      "id": "alicante",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/alicante.b766720a00e553f8d251f079dcd7ba11bafab377211bc30afc145795bd6605dc.pmtiles",
+      "byteLength": 3937145,
+      "sha256": "b766720a00e553f8d251f079dcd7ba11bafab377211bc30afc145795bd6605dc",
+      "maxZoom": 13,
+      "bounds": [
+        -0.7123725796597982,
+        38.1536707650018,
+        -0.25429342034020186,
+        38.51299523499821
+      ]
+    },
+    {
+      "id": "amsterdam",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/amsterdam.28731c79aacb2b7e282c3bc957ba32113cd2cc0b4b934a326316e2dd82efd2b6.pmtiles",
+      "byteLength": 18982530,
+      "sha256": "28731c79aacb2b7e282c3bc957ba32113cd2cc0b4b934a326316e2dd82efd2b6",
+      "maxZoom": 13,
+      "bounds": [
+        4.6057640483122855,
+        52.187004765001795,
+        5.194235951687715,
+        52.546329234998204
+      ]
+    },
+    {
+      "id": "ancona",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/ancona.ba5a6a8813b60ece96105ae359e8a30ed96f300f5b0f3dc2bf102579cbcd26c9.pmtiles",
+      "byteLength": 3847719,
+      "sha256": "ba5a6a8813b60ece96105ae359e8a30ed96f300f5b0f3dc2bf102579cbcd26c9",
+      "maxZoom": 13,
+      "bounds": [
+        13.245786964104916,
+        43.44933776500179,
+        13.742213035895084,
+        43.8086622349982
+      ]
+    },
+    {
+      "id": "antalya",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/antalya.d2683cc621cbc223465e00e2b5cb348ec30d39b404cc5f26f9f6cfbfca890637.pmtiles",
+      "byteLength": 2697674,
+      "sha256": "d2683cc621cbc223465e00e2b5cb348ec30d39b404cc5f26f9f6cfbfca890637",
+      "maxZoom": 13,
+      "bounds": [
+        30.39219659882485,
+        36.6536707650018,
+        30.84113740117515,
+        37.01299523499821
+      ]
+    },
+    {
+      "id": "apra-harbour",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/apra-harbour.83c377e88bea4be12c34778f39b13e0f120e519bc5877fb5c69a0278b7f65533.pmtiles",
+      "byteLength": 706893,
+      "sha256": "83c377e88bea4be12c34778f39b13e0f120e519bc5877fb5c69a0278b7f65533",
+      "maxZoom": 13,
+      "bounds": [
+        144.43193825964897,
+        13.270337765001797,
+        144.80139574035104,
+        13.629662234998202
+      ]
+    },
+    {
+      "id": "arrecife",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/arrecife.9aaeab8e14f0b39e6146d8406516c051323286653a017521db7ce1bc199dc589.pmtiles",
+      "byteLength": 1068860,
+      "sha256": "9aaeab8e14f0b39e6146d8406516c051323286653a017521db7ce1bc199dc589",
+      "maxZoom": 13,
+      "bounds": [
+        -13.738651307637058,
+        28.770337765001795,
+        -13.328014692362943,
+        29.129662234998204
+      ]
+    },
+    {
+      "id": "auckland",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/auckland.84f613daa597d5cf6707e8b91a0e54d4c4f957c207d6f2e041389772b180af57.pmtiles",
+      "byteLength": 6964192,
+      "sha256": "84f613daa597d5cf6707e8b91a0e54d4c4f957c207d6f2e041389772b180af57",
+      "maxZoom": 13,
+      "bounds": [
+        174.54214767092128,
+        -37.029662234998206,
+        174.99118632907874,
+        -36.6703377650018
+      ]
+    },
+    {
+      "id": "baltimore",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/baltimore.63fb4dd166a00a2249f00431c01c7a6191f2a5ec7dadea29e2e795e522e9780d.pmtiles",
+      "byteLength": 8642020,
+      "sha256": "63fb4dd166a00a2249f00431c01c7a6191f2a5ec7dadea29e2e795e522e9780d",
+      "maxZoom": 13,
+      "bounds": [
+        -76.81539222024205,
+        39.087004765001794,
+        -76.35127377975795,
+        39.4463292349982
+      ]
+    },
+    {
+      "id": "baltra",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/baltra.4b4b8f0f06a909864e1027e835a40b52e7c787e5e8df4199db9ae92134d4a01a.pmtiles",
+      "byteLength": 330094,
+      "sha256": "4b4b8f0f06a909864e1027e835a40b52e7c787e5e8df4199db9ae92134d4a01a",
+      "maxZoom": 13,
+      "bounds": [
+        -90.45289672139302,
+        -0.6274242349982033,
+        -90.09356127860698,
+        -0.2680997650017966
+      ]
+    },
+    {
+      "id": "barcelona",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/barcelona.9a8ec3a613449d6be66460bae70cfebaf46fb818db9f2f1962b34339c1d0b2a1.pmtiles",
+      "byteLength": 7883258,
+      "sha256": "9a8ec3a613449d6be66460bae70cfebaf46fb818db9f2f1962b34339c1d0b2a1",
+      "maxZoom": 13,
+      "bounds": [
+        1.9421245294071414,
+        41.18266576500179,
+        2.420875470592859,
+        41.5419902349982
+      ]
+    },
+    {
+      "id": "bari",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bari.47ae7701e299cdc233b175ef996a45c787e5c69ce9315511736704206f1dbdf5.pmtiles",
+      "byteLength": 3765294,
+      "sha256": "47ae7701e299cdc233b175ef996a45c787e5c69ce9315511736704206f1dbdf5",
+      "maxZoom": 13,
+      "bounds": [
+        16.607415942723176,
+        40.966337765001796,
+        17.084584057276825,
+        41.325662234998205
+      ]
+    },
+    {
+      "id": "basseterre",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/basseterre.899fbf8f969f58abafcb0bdbd49d7a16fd8c45d1f6a388db9af42fa449e5d520.pmtiles",
+      "byteLength": 844377,
+      "sha256": "899fbf8f969f58abafcb0bdbd49d7a16fd8c45d1f6a388db9af42fa449e5d520",
+      "maxZoom": 13,
+      "bounds": [
+        -62.90484212731123,
+        17.120337765001796,
+        -62.528491872688775,
+        17.479662234998205
+      ]
+    },
+    {
+      "id": "belfast",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/belfast.e84436c80b819b552d965659bf075422f8d6d755e962a3d91e5ad64e076afb32.pmtiles",
+      "byteLength": 6027294,
+      "sha256": "e84436c80b819b552d965659bf075422f8d6d755e962a3d91e5ad64e076afb32",
+      "maxZoom": 13,
+      "bounds": [
+        -6.210273873937121,
+        54.437004765001795,
+        -5.58972612606288,
+        54.796329234998204
+      ]
+    },
+    {
+      "id": "benoa",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/benoa.d62eca57fc1252e67bbb2723b3d56f5ad3266c1588e16560cd2d28851d977125.pmtiles",
+      "byteLength": 2308041,
+      "sha256": "d62eca57fc1252e67bbb2723b3d56f5ad3266c1588e16560cd2d28851d977125",
+      "maxZoom": 13,
+      "bounds": [
+        115.03488914534319,
+        -8.929662234998203,
+        115.39844485465682,
+        -8.570337765001797
+      ]
+    },
+    {
+      "id": "bergen",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bergen.a53ee23395217127fb438a771a79ced8e43f3b40bcccf068d89ebf8a1e246983.pmtiles",
+      "byteLength": 9134092,
+      "sha256": "a53ee23395217127fb438a771a79ced8e43f3b40bcccf068d89ebf8a1e246983",
+      "maxZoom": 13,
+      "bounds": [
+        4.934848414258513,
+        60.22311576500179,
+        5.662373585741487,
+        60.5824402349982
+      ]
+    },
+    {
+      "id": "bilbao",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bilbao.d0559d7fb762b3572e25178d0e9526767c676a24f072a5688a24bd393c0c1081.pmtiles",
+      "byteLength": 7660678,
+      "sha256": "d0559d7fb762b3572e25178d0e9526767c676a24f072a5688a24bd393c0c1081",
+      "maxZoom": 13,
+      "bounds": [
+        -3.29706911574405,
+        43.1703377650018,
+        -2.8029308842559497,
+        43.529662234998206
+      ]
+    },
+    {
+      "id": "bordeaux",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bordeaux.f3e12c2d6835a1bc19d6d9dac2d2b504c7c2d815ae80943e8a3d61692e900119.pmtiles",
+      "byteLength": 5877937,
+      "sha256": "f3e12c2d6835a1bc19d6d9dac2d2b504c7c2d815ae80943e8a3d61692e900119",
+      "maxZoom": 13,
+      "bounds": [
+        -0.8201585561284869,
+        44.687004765001795,
+        -0.3131754438715132,
+        45.046329234998204
+      ]
+    },
+    {
+      "id": "boston",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/boston.96611969cea75a89ff85f5de700da8afa5d3a781b133d5ee1ed903183d663095.pmtiles",
+      "byteLength": 7915181,
+      "sha256": "96611969cea75a89ff85f5de700da8afa5d3a781b133d5ee1ed903183d663095",
+      "maxZoom": 13,
+      "bounds": [
+        -71.29310102881692,
+        42.1703377650018,
+        -70.80689897118307,
+        42.529662234998206
+      ]
+    },
+    {
+      "id": "bremerhaven",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bremerhaven.e8fe3a026478bb772a086c45a827de7e80f4c8709ed38d9702bd16136e5b4bfc.pmtiles",
+      "byteLength": 5966701,
+      "sha256": "e8fe3a026478bb772a086c45a827de7e80f4c8709ed38d9702bd16136e5b4bfc",
+      "maxZoom": 13,
+      "bounds": [
+        8.281051994219627,
+        53.353670765001795,
+        8.885614005780372,
+        53.7129952349982
+      ]
+    },
+    {
+      "id": "bridgetown",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bridgetown.a63b13df099b0c544993cf17de6576703c7c8e673e6c3af7b83732aa08960eb1.pmtiles",
+      "byteLength": 1346602,
+      "sha256": "a63b13df099b0c544993cf17de6576703c7c8e673e6c3af7b83732aa08960eb1",
+      "maxZoom": 13,
+      "bounds": [
+        -59.81779569829441,
+        12.920337765001797,
+        -59.44887030170559,
+        13.279662234998202
+      ]
+    },
+    {
+      "id": "brindisi",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/brindisi.cada8147b28b962fad3b6c6e5207f5361f81c951910e8d43a5f41451f0edc038.pmtiles",
+      "byteLength": 1634742,
+      "sha256": "cada8147b28b962fad3b6c6e5207f5361f81c951910e8d43a5f41451f0edc038",
+      "maxZoom": 13,
+      "bounds": [
+        17.74653123594481,
+        40.470337765001794,
+        18.220134764055185,
+        40.8296622349982
+      ]
+    },
+    {
+      "id": "brisbane",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/brisbane.efca5b4f0c4dfdbf33e96cc61d8324546f580fdf8bb869c1e3405590b82d6716.pmtiles",
+      "byteLength": 6288254,
+      "sha256": "efca5b4f0c4dfdbf33e96cc61d8324546f580fdf8bb869c1e3405590b82d6716",
+      "maxZoom": 13,
+      "bounds": [
+        152.83084632867033,
+        -27.646329234998205,
+        153.23581967132966,
+        -27.287004765001797
+      ]
+    },
+    {
+      "id": "bristol",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/bristol.48fcc40a742931451d6dcfb002e043ad1025584097bb3858b38fe875ee8b07c6.pmtiles",
+      "byteLength": 10675439,
+      "sha256": "48fcc40a742931451d6dcfb002e043ad1025584097bb3858b38fe875ee8b07c6",
+      "maxZoom": 13,
+      "bounds": [
+        -2.921729365984691,
+        51.2870047650018,
+        -2.344936634015309,
+        51.646329234998205
+      ]
+    },
+    {
+      "id": "broome",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/broome.732beaf58cec1e80fdc2cf9fd57bd35a16f2bdfe91e7277e45b82abd3503e7af.pmtiles",
+      "byteLength": 490609,
+      "sha256": "732beaf58cec1e80fdc2cf9fd57bd35a16f2bdfe91e7277e45b82abd3503e7af",
+      "maxZoom": 13,
+      "bounds": [
+        122.04446061711857,
+        -18.146329234998205,
+        122.42220538288143,
+        -17.787004765001797
+      ]
+    },
+    {
+      "id": "buenos-aires",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/buenos-aires.654ec518b12e1f4c96e62f8d4d71ec5384d0b71b32632f32a1a9848c407f29e1.pmtiles",
+      "byteLength": 4354590,
+      "sha256": "654ec518b12e1f4c96e62f8d4d71ec5384d0b71b32632f32a1a9848c407f29e1",
+      "maxZoom": 13,
+      "bounds": [
+        -58.584932456206346,
+        -34.779662234998206,
+        -58.14840154379365,
+        -34.4203377650018
+      ]
+    },
+    {
+      "id": "busan",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/busan.1f74ba1b7ef11b3be60b2404d1bb2d2e67a52052d624b4e9e91e202f36792cdd.pmtiles",
+      "byteLength": 3734191,
+      "sha256": "1f74ba1b7ef11b3be60b2404d1bb2d2e67a52052d624b4e9e91e202f36792cdd",
+      "maxZoom": 13,
+      "bounds": [
+        128.81373720821307,
+        34.9203377650018,
+        129.25292879178693,
+        35.279662234998206
+      ]
+    },
+    {
+      "id": "cabo-san-lucas",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cabo-san-lucas.7c437025119f0a27b122e42ac29602ea28836b725f64d9788615881d6b2e8904.pmtiles",
+      "byteLength": 937813,
+      "sha256": "7c437025119f0a27b122e42ac29602ea28836b725f64d9788615881d6b2e8904",
+      "maxZoom": 13,
+      "bounds": [
+        -110.11508495320138,
+        22.714225765001796,
+        -109.72503504679864,
+        23.073550234998205
+      ]
+    },
+    {
+      "id": "cadiz",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cadiz.e9b012ee5d8b6cbf5aa8b2e646a9db035b5096cae75f51912bd28ad3e2c7034b.pmtiles",
+      "byteLength": 2341130,
+      "sha256": "e9b012ee5d8b6cbf5aa8b2e646a9db035b5096cae75f51912bd28ad3e2c7034b",
+      "maxZoom": 13,
+      "bounds": [
+        -6.5235965753396865,
+        36.353670765001795,
+        -6.076403424660313,
+        36.7129952349982
+      ]
+    },
+    {
+      "id": "cagliari",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cagliari.6fff7bdfb2a632019cc457aea102c4f0f715c966888c9dfe3e9463195fc556f2.pmtiles",
+      "byteLength": 3086390,
+      "sha256": "6fff7bdfb2a632019cc457aea102c4f0f715c966888c9dfe3e9463195fc556f2",
+      "maxZoom": 13,
+      "bounds": [
+        8.870194148268506,
+        39.01033776500179,
+        9.333805851731494,
+        39.3696622349982
+      ]
+    },
+    {
+      "id": "cairns",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cairns.487f20c3251ad0ce0c111f0eb12027d9495fb67cedcb60cce27965306f3e3d00.pmtiles",
+      "byteLength": 1400603,
+      "sha256": "487f20c3251ad0ce0c111f0eb12027d9495fb67cedcb60cce27965306f3e3d00",
+      "maxZoom": 13,
+      "bounds": [
+        145.5955449861052,
+        -17.096329234998205,
+        145.9711210138948,
+        -16.737004765001796
+      ]
+    },
+    {
+      "id": "callao",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/callao.423ca9eabdcb94fcd94510afac6472b9f7956219a387913603d6471b63badf11.pmtiles",
+      "byteLength": 2977419,
+      "sha256": "423ca9eabdcb94fcd94510afac6472b9f7956219a387913603d6471b63badf11",
+      "maxZoom": 13,
+      "bounds": [
+        -77.33371014265335,
+        -12.229662234998203,
+        -76.96628985734667,
+        -11.870337765001798
+      ]
+    },
+    {
+      "id": "camboriu",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/camboriu.6a136df83613677250b31ade8cad0922a30429abebea47603e62373859539dd6.pmtiles",
+      "byteLength": 2065581,
+      "sha256": "6a136df83613677250b31ade8cad0922a30429abebea47603e62373859539dd6",
+      "maxZoom": 13,
+      "bounds": [
+        -48.815579179478256,
+        -27.187211234998205,
+        -48.41227282052174,
+        -26.827886765001796
+      ]
+    },
+    {
+      "id": "canaveral",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/canaveral.b08eab07a9c9276c2bfd1736d29976a854a628895bfdeaf4797836fd11df48d6.pmtiles",
+      "byteLength": 3559901,
+      "sha256": "b08eab07a9c9276c2bfd1736d29976a854a628895bfdeaf4797836fd11df48d6",
+      "maxZoom": 13,
+      "bounds": [
+        -80.81673717149283,
+        28.227587765001797,
+        -80.40822282850718,
+        28.586912234998206
+      ]
+    },
+    {
+      "id": "cannes",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cannes.d95b365e6479d44ebdf627a1095c15131cb297f79b46beced5bc6655dbf6bcb6.pmtiles",
+      "byteLength": 5321786,
+      "sha256": "d95b365e6479d44ebdf627a1095c15131cb297f79b46beced5bc6655dbf6bcb6",
+      "maxZoom": 13,
+      "bounds": [
+        6.7687795403716615,
+        43.37033776500179,
+        7.2645544596283385,
+        43.7296622349982
+      ]
+    },
+    {
+      "id": "cape-liberty",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cape-liberty.878e486125b73d59a6fb7eedef0f9d6adb486cb603645ac22781e090ee367af0.pmtiles",
+      "byteLength": 9378177,
+      "sha256": "878e486125b73d59a6fb7eedef0f9d6adb486cb603645ac22781e090ee367af0",
+      "maxZoom": 13,
+      "bounds": [
+        -74.33692015026435,
+        40.50367076500179,
+        -73.86307984973564,
+        40.8629952349982
+      ]
+    },
+    {
+      "id": "cape-town",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cape-town.adefbf9a33bbe1733dd8939319b40dc5fa743c6347427840252c999e6e7b5a63.pmtiles",
+      "byteLength": 3767049,
+      "sha256": "adefbf9a33bbe1733dd8939319b40dc5fa743c6347427840252c999e6e7b5a63",
+      "maxZoom": 13,
+      "bounds": [
+        18.2001673508351,
+        -34.0963292349982,
+        18.633166649164902,
+        -33.73700476500179
+      ]
+    },
+    {
+      "id": "cartagena",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/cartagena.3b917a56e167c8ffc249217413b874919578e449d9ec9633bf68439f089ef0e5.pmtiles",
+      "byteLength": 1339080,
+      "sha256": "3b917a56e167c8ffc249217413b874919578e449d9ec9633bf68439f089ef0e5",
+      "maxZoom": 13,
+      "bounds": [
+        -75.71600588187907,
+        10.237004765001798,
+        -75.35066011812093,
+        10.596329234998203
+      ]
+    },
+    {
+      "id": "casablanca",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/casablanca.58ea2bfc2da47ceeb9f7ce225a49ec89bd52e628d65c91494930d2ab8d2ec1b2.pmtiles",
+      "byteLength": 2803287,
+      "sha256": "58ea2bfc2da47ceeb9f7ce225a49ec89bd52e628d65c91494930d2ab8d2ec1b2",
+      "maxZoom": 13,
+      "bounds": [
+        -7.832368348719398,
+        33.4203377650018,
+        -7.400965651280601,
+        33.779662234998206
+      ]
+    },
+    {
+      "id": "castries",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/castries.5d6bd09905fe94218748d50c9ff4967b4ed7d5538e026c02e9da283f8ad75ab0.pmtiles",
+      "byteLength": 1177943,
+      "sha256": "5d6bd09905fe94218748d50c9ff4967b4ed7d5538e026c02e9da283f8ad75ab0",
+      "maxZoom": 13,
+      "bounds": [
+        -61.18517578633752,
+        13.837004765001797,
+        -60.81482421366248,
+        14.196329234998203
+      ]
+    },
+    {
+      "id": "catania",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/catania.4574e7d46db930836125f00c38d55e3dffd522b718eee90228776fa540aa9462.pmtiles",
+      "byteLength": 2989285,
+      "sha256": "4574e7d46db930836125f00c38d55e3dffd522b718eee90228776fa540aa9462",
+      "maxZoom": 13,
+      "bounds": [
+        14.873540708945335,
+        37.320337765001796,
+        15.326459291054665,
+        37.679662234998204
+      ]
+    },
+    {
+      "id": "chennai",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/chennai.3fa6884e1c4521f770110e5863d58dcb7f92c897a6d401b630bde9638dbf1198.pmtiles",
+      "byteLength": 3147490,
+      "sha256": "3fa6884e1c4521f770110e5863d58dcb7f92c897a6d401b630bde9638dbf1198",
+      "maxZoom": 13,
+      "bounds": [
+        80.11553730170559,
+        12.920337765001797,
+        80.48446269829441,
+        13.279662234998202
+      ]
+    },
+    {
+      "id": "chioggia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/chioggia.ffc47752a92f3208d38b90f1a5c14d85563302e30288e382bd9798c278983a95.pmtiles",
+      "byteLength": 4751358,
+      "sha256": "ffc47752a92f3208d38b90f1a5c14d85563302e30288e382bd9798c278983a95",
+      "maxZoom": 13,
+      "bounds": [
+        12.04487815229954,
+        45.0536707650018,
+        12.55512184770046,
+        45.412995234998206
+      ]
+    },
+    {
+      "id": "civitavecchia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/civitavecchia.626f5e0aa11359ce3a4f3a3f29594c0f089b460e2706af070e08f017ba9220e2.pmtiles",
+      "byteLength": 3429555,
+      "sha256": "626f5e0aa11359ce3a4f3a3f29594c0f089b460e2706af070e08f017ba9220e2",
+      "maxZoom": 13,
+      "bounds": [
+        11.535897676875102,
+        41.915635765001795,
+        12.020142323124897,
+        42.274960234998204
+      ]
+    },
+    {
+      "id": "colombo",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/colombo.b10724b1c7b9c1d36f8a409fe01225f4351075db12cee27d50d18cb45001160d.pmtiles",
+      "byteLength": 2774165,
+      "sha256": "b10724b1c7b9c1d36f8a409fe01225f4351075db12cee27d50d18cb45001160d",
+      "maxZoom": 13,
+      "bounds": [
+        79.66900785731781,
+        6.770337765001797,
+        80.03099214268218,
+        7.129662234998204
+      ]
+    },
+    {
+      "id": "colon",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/colon.fa3f420e836a2a1b2ae08a6abe4cb3e5a429fad5b9dac68710ba3a32c4395bc1.pmtiles",
+      "byteLength": 1243293,
+      "sha256": "fa3f420e836a2a1b2ae08a6abe4cb3e5a429fad5b9dac68710ba3a32c4395bc1",
+      "maxZoom": 13,
+      "bounds": [
+        -80.06542303914324,
+        9.187004765001797,
+        -79.70124296085675,
+        9.546329234998202
+      ]
+    },
+    {
+      "id": "copenhagen",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/copenhagen.c078e9ad953c6c9952ba2177e97b2e2726802aae0ddf8436fd549ea5dd884dee.pmtiles",
+      "byteLength": 9653723,
+      "sha256": "c078e9ad953c6c9952ba2177e97b2e2726802aae0ddf8436fd549ea5dd884dee",
+      "maxZoom": 13,
+      "bounds": [
+        12.300508589317612,
+        55.5337477650018,
+        12.938363410682388,
+        55.89307223499821
+      ]
+    },
+    {
+      "id": "corfu",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/corfu.b15501af633de14e47ed4b167ece0620e8368f53dd386ea56eceec7a059976bb.pmtiles",
+      "byteLength": 2625546,
+      "sha256": "b15501af633de14e47ed4b167ece0620e8368f53dd386ea56eceec7a059976bb",
+      "maxZoom": 13,
+      "bounds": [
+        19.70010470686406,
+        39.437004765001795,
+        20.166561293135942,
+        39.796329234998204
+      ]
+    },
+    {
+      "id": "dakar",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dakar.5c19e603a9ef9b28db986f2c4a55827dec4696196aa55eee44a87801e8b65c4e.pmtiles",
+      "byteLength": 1484430,
+      "sha256": "5c19e603a9ef9b28db986f2c4a55827dec4696196aa55eee44a87801e8b65c4e",
+      "maxZoom": 13,
+      "bounds": [
+        -17.619060821768414,
+        14.503670765001797,
+        -17.247605178231588,
+        14.862995234998202
+      ]
+    },
+    {
+      "id": "darwin",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/darwin.0807cc5d81de4be1cef64708cc9abff23d3d523fde8a63f873981d5f12f7b1a6.pmtiles",
+      "byteLength": 1300504,
+      "sha256": "0807cc5d81de4be1cef64708cc9abff23d3d523fde8a63f873981d5f12f7b1a6",
+      "maxZoom": 13,
+      "bounds": [
+        130.66377400034125,
+        -12.651051234998203,
+        131.03178199965876,
+        -12.291726765001798
+      ]
+    },
+    {
+      "id": "doha",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/doha.e508e99421546cc6b9da1911867c1c087d45aef56550a4d83bf3db6bed9ebede.pmtiles",
+      "byteLength": 2794863,
+      "sha256": "e508e99421546cc6b9da1911867c1c087d45aef56550a4d83bf3db6bed9ebede",
+      "maxZoom": 13,
+      "bounds": [
+        51.334637049491434,
+        25.103670765001795,
+        51.732028950508564,
+        25.462995234998203
+      ]
+    },
+    {
+      "id": "dover",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dover.3d5346cc54e527a41a2a59a741cb817101e4175d7c63701e3323815a08e9437e.pmtiles",
+      "byteLength": 4717373,
+      "sha256": "3d5346cc54e527a41a2a59a741cb817101e4175d7c63701e3323815a08e9437e",
+      "maxZoom": 13,
+      "bounds": [
+        1.047126616341657,
+        50.937004765001795,
+        1.6195393836583432,
+        51.296329234998204
+      ]
+    },
+    {
+      "id": "dubai",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dubai.99a089b91e474c3e2e015bf96006540696eab02726518d5a72c42273859cd58d.pmtiles",
+      "byteLength": 4188592,
+      "sha256": "99a089b91e474c3e2e015bf96006540696eab02726518d5a72c42273859cd58d",
+      "maxZoom": 13,
+      "bounds": [
+        55.10133133681374,
+        25.087004765001797,
+        55.49866866318625,
+        25.446329234998206
+      ]
+    },
+    {
+      "id": "dublin",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dublin.b8dc2f17cc2225233476384b045012f4a2bb0fb69601539fa381d9e60da080b2.pmtiles",
+      "byteLength": 8815467,
+      "sha256": "b8dc2f17cc2225233476384b045012f4a2bb0fb69601539fa381d9e60da080b2",
+      "maxZoom": 13,
+      "bounds": [
+        -6.5509794585349646,
+        53.1703377650018,
+        -5.9490205414650354,
+        53.529662234998206
+      ]
+    },
+    {
+      "id": "dubrovnik",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dubrovnik.b7e28ab499e8cf63c4b7fc33c1f90d81db59a4faee38db8147ec1907b50b2fc5.pmtiles",
+      "byteLength": 4016800,
+      "sha256": "b7e28ab499e8cf63c4b7fc33c1f90d81db59a4faee38db8147ec1907b50b2fc5",
+      "maxZoom": 13,
+      "bounds": [
+        17.838997307124913,
+        42.48700476500179,
+        18.327668692875086,
+        42.8463292349982
+      ]
+    },
+    {
+      "id": "dundee",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dundee.46dbc1d9ce5c0f490c973240b808fce4c635a7008489f164fedafa11c4f61f90.pmtiles",
+      "byteLength": 6374425,
+      "sha256": "46dbc1d9ce5c0f490c973240b808fce4c635a7008489f164fedafa11c4f61f90",
+      "maxZoom": 13,
+      "bounds": [
+        -3.2752264171213787,
+        56.2870047650018,
+        -2.6247735828786216,
+        56.646329234998205
+      ]
+    },
+    {
+      "id": "dunedin",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dunedin.29ebd85fb140e1555157a31248688e7fe689aade7444af928dc6ac2be0c98ff5.pmtiles",
+      "byteLength": 1675093,
+      "sha256": "29ebd85fb140e1555157a31248688e7fe689aade7444af928dc6ac2be0c98ff5",
+      "maxZoom": 13,
+      "bounds": [
+        170.37555187924028,
+        -45.99632923499821,
+        170.8911141207597,
+        -45.6370047650018
+      ]
+    },
+    {
+      "id": "dunkirk",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/dunkirk.6de27189d99185060a5b765153df8dd78ce543ac9f698f40bae1610db9318e49.pmtiles",
+      "byteLength": 5473896,
+      "sha256": "6de27189d99185060a5b765153df8dd78ce543ac9f698f40bae1610db9318e49",
+      "maxZoom": 13,
+      "bounds": [
+        2.0975387874478764,
+        50.87033776500179,
+        2.6691272125521235,
+        51.2296622349982
+      ]
+    },
+    {
+      "id": "durban",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/durban.3ac472a8b6c73705e77f627617b630208e53e640d5d3bba83a6c761e6171df03.pmtiles",
+      "byteLength": 2943606,
+      "sha256": "3ac472a8b6c73705e77f627617b630208e53e640d5d3bba83a6c761e6171df03",
+      "maxZoom": 13,
+      "bounds": [
+        30.859488714037816,
+        -30.046329234998204,
+        31.27384528596218,
+        -29.687004765001795
+      ]
+    },
+    {
+      "id": "edinburgh",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/edinburgh.8c20db0c3af7faf6c0624732ed9e088c7b4fc6ef977c8088db3237f670a6af31.pmtiles",
+      "byteLength": 7020370,
+      "sha256": "8c20db0c3af7faf6c0624732ed9e088c7b4fc6ef977c8088db3237f670a6af31",
+      "maxZoom": 13,
+      "bounds": [
+        -3.5044829864982043,
+        55.8036707650018,
+        -2.862183013501796,
+        56.162995234998206
+      ]
+    },
+    {
+      "id": "everglades",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/everglades.6708519e792721bcfd1533cd1599cbd8a644d5f2642f8818dfca535ee14e6be7.pmtiles",
+      "byteLength": 4506227,
+      "sha256": "6708519e792721bcfd1533cd1599cbd8a644d5f2642f8818dfca535ee14e6be7",
+      "maxZoom": 13,
+      "bounds": [
+        -80.32098283466374,
+        25.917808765001794,
+        -79.92086516533627,
+        26.277133234998203
+      ]
+    },
+    {
+      "id": "fort-de-france",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/fort-de-france.6ad9689d1b07e83b97e793605559cf9741a77d251b4153f59e16176f3420ca93.pmtiles",
+      "byteLength": 2162148,
+      "sha256": "6ad9689d1b07e83b97e793605559cf9741a77d251b4153f59e16176f3420ca93",
+      "maxZoom": 13,
+      "bounds": [
+        -61.25232426199404,
+        14.420337765001797,
+        -60.881009738005964,
+        14.779662234998202
+      ]
+    },
+    {
+      "id": "fredrikstad",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/fredrikstad.c23031277ec57159a99ba4a142f2659e1f170617511eca278280b860e86911b7.pmtiles",
+      "byteLength": 8002138,
+      "sha256": "c23031277ec57159a99ba4a142f2659e1f170617511eca278280b860e86911b7",
+      "maxZoom": 13,
+      "bounds": [
+        10.602118434913596,
+        58.999504765001795,
+        11.303437565086405,
+        59.358829234998204
+      ]
+    },
+    {
+      "id": "fremantle",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/fremantle.6fbc68d1bb2dc334be8fe1a3a0ffbae7972c47238fdc1260453718f8ae27078f.pmtiles",
+      "byteLength": 3889900,
+      "sha256": "6fbc68d1bb2dc334be8fe1a3a0ffbae7972c47238fdc1260453718f8ae27078f",
+      "maxZoom": 13,
+      "bounds": [
+        115.53803050463483,
+        -32.2296622349982,
+        115.96196949536517,
+        -31.870337765001793
+      ]
+    },
+    {
+      "id": "fukuoka",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/fukuoka.f17f9ea31bd34ef5163e80f602c2aa91d3deb71dcdf73f56714673b95758ea1d.pmtiles",
+      "byteLength": 7067412,
+      "sha256": "f17f9ea31bd34ef5163e80f602c2aa91d3deb71dcdf73f56714673b95758ea1d",
+      "maxZoom": 13,
+      "bounds": [
+        130.1842986512806,
+        33.4203377650018,
+        130.6157013487194,
+        33.779662234998206
+      ]
+    },
+    {
+      "id": "funchal",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/funchal.1141aa24f92ce2af79295244011bbf157f24137ed49472410dff70c6b4e998a2.pmtiles",
+      "byteLength": 2179424,
+      "sha256": "1141aa24f92ce2af79295244011bbf157f24137ed49472410dff70c6b4e998a2",
+      "maxZoom": 13,
+      "bounds": [
+        -17.130007404369987,
+        32.453670765001796,
+        -16.703326595630013,
+        32.812995234998205
+      ]
+    },
+    {
+      "id": "galveston",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/galveston.47a32c6849a1b3c93ef1fdca642e8e2797bff398d7d81330a5b2960e0874eef2.pmtiles",
+      "byteLength": 1333502,
+      "sha256": "47a32c6849a1b3c93ef1fdca642e8e2797bff398d7d81330a5b2960e0874eef2",
+      "maxZoom": 13,
+      "bounds": [
+        -95.00262852456326,
+        29.128868765001794,
+        -94.59055747543674,
+        29.488193234998203
+      ]
+    },
+    {
+      "id": "genoa",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/genoa.70c46e48d2616f8e83041bce339938c8c142088698ca7fa3de2eeee3c3250ccf.pmtiles",
+      "byteLength": 5900769,
+      "sha256": "70c46e48d2616f8e83041bce339938c8c142088698ca7fa3de2eeee3c3250ccf",
+      "maxZoom": 13,
+      "bounds": [
+        8.670547286642082,
+        44.2183377650018,
+        9.17345271335792,
+        44.57766223499821
+      ]
+    },
+    {
+      "id": "haifa",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/haifa.f5afdffdcf6d893eba331226bdfc5b52817c96d0d51fb7bde0bbc8f8df928906.pmtiles",
+      "byteLength": 4389317,
+      "sha256": "f5afdffdcf6d893eba331226bdfc5b52817c96d0d51fb7bde0bbc8f8df928906",
+      "maxZoom": 13,
+      "bounds": [
+        34.786220474185995,
+        32.6370047650018,
+        35.213779525814005,
+        32.99632923499821
+      ]
+    },
+    {
+      "id": "halifax",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/halifax.b1457100aa643017e4346586be13387c2d07d90368bc49ceb5dc2c9ed889916d.pmtiles",
+      "byteLength": 3800157,
+      "sha256": "b1457100aa643017e4346586be13387c2d07d90368bc49ceb5dc2c9ed889916d",
+      "maxZoom": 13,
+      "bounds": [
+        -63.83587579471326,
+        44.470337765001794,
+        -63.330790205286746,
+        44.8296622349982
+      ]
+    },
+    {
+      "id": "halong-bay",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/halong-bay.786acccb97d2821bce068c72c2f5e0207c9bd64c8519f789abf99d6d081cb4c2.pmtiles",
+      "byteLength": 2398615,
+      "sha256": "786acccb97d2821bce068c72c2f5e0207c9bd64c8519f789abf99d6d081cb4c2",
+      "maxZoom": 13,
+      "bounds": [
+        106.87428706748294,
+        20.770337765001795,
+        107.25904693251705,
+        21.129662234998204
+      ]
+    },
+    {
+      "id": "hamburg",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/hamburg.0b43cb3dd9a22496145d5828f72365faabd2dcb599693dd91620a1d01bd4ae33.pmtiles",
+      "byteLength": 12426346,
+      "sha256": "0b43cb3dd9a22496145d5828f72365faabd2dcb599693dd91620a1d01bd4ae33",
+      "maxZoom": 13,
+      "bounds": [
+        9.63093295695048,
+        53.37033776500179,
+        10.23573304304952,
+        53.7296622349982
+      ]
+    },
+    {
+      "id": "helsinki",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/helsinki.7a52794128b848c857feef5514e9a357099d9b6e751fa895f545527fbef5fed6.pmtiles",
+      "byteLength": 16242171,
+      "sha256": "7a52794128b848c857feef5514e9a357099d9b6e751fa895f545527fbef5fed6",
+      "maxZoom": 13,
+      "bounds": [
+        24.60552142986533,
+        59.98700476500179,
+        25.32781257013467,
+        60.3463292349982
+      ]
+    },
+    {
+      "id": "ho-chi-minh-city",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/ho-chi-minh-city.ceded029a02610e8d0e9edaa54e89d0d1860fa2890acd0f8774b3a4c4133cc4c.pmtiles",
+      "byteLength": 4917025,
+      "sha256": "ceded029a02610e8d0e9edaa54e89d0d1860fa2890acd0f8774b3a4c4133cc4c",
+      "maxZoom": 13,
+      "bounds": [
+        106.53378533397142,
+        10.587004765001797,
+        106.89954866602858,
+        10.946329234998203
+      ]
+    },
+    {
+      "id": "hobart",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/hobart.347ea5bbd5cf05881cad33ec892d80db50d9957dc1b7dee1451d977468da6422.pmtiles",
+      "byteLength": 2590227,
+      "sha256": "347ea5bbd5cf05881cad33ec892d80db50d9957dc1b7dee1451d977468da6422",
+      "maxZoom": 13,
+      "bounds": [
+        147.08814095657542,
+        -43.062995234998205,
+        147.5785250434246,
+        -42.703670765001796
+      ]
+    },
+    {
+      "id": "hong-kong",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/hong-kong.d17d50c2d3c75e1a7d16788933690caa73e93e114a731efe5d4f4c2dd4a86d42.pmtiles",
+      "byteLength": 5846099,
+      "sha256": "d17d50c2d3c75e1a7d16788933690caa73e93e114a731efe5d4f4c2dd4a86d42",
+      "maxZoom": 13,
+      "bounds": [
+        114.00586087201023,
+        22.087004765001797,
+        114.39413912798977,
+        22.446329234998206
+      ]
+    },
+    {
+      "id": "honolulu",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/honolulu.1c1c5b47df00e13e03c41bf0b5dfd9735dfc6751dc62cd4227d03ba0bf546a27.pmtiles",
+      "byteLength": 1740521,
+      "sha256": "1c1c5b47df00e13e03c41bf0b5dfd9735dfc6751dc62cd4227d03ba0bf546a27",
+      "maxZoom": 13,
+      "bounds": [
+        -158.05950152465664,
+        21.120337765001796,
+        -157.67383247534337,
+        21.479662234998205
+      ]
+    },
+    {
+      "id": "ijmuiden",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/ijmuiden.6af03a30b9e8b6944b476fb366bf4872e17ac5e099623db20f2b8c98eb58d200.pmtiles",
+      "byteLength": 12120292,
+      "sha256": "6af03a30b9e8b6944b476fb366bf4872e17ac5e099623db20f2b8c98eb58d200",
+      "maxZoom": 13,
+      "bounds": [
+        4.288429045814242,
+        52.2870047650018,
+        4.878236954185757,
+        52.646329234998205
+      ]
+    },
+    {
+      "id": "incheon",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/incheon.407e7ae5137eb2719aa6e192c318169fcd4b8b14d960c3a42cc6e6a74a8f2e5e.pmtiles",
+      "byteLength": 6141186,
+      "sha256": "407e7ae5137eb2719aa6e192c318169fcd4b8b14d960c3a42cc6e6a74a8f2e5e",
+      "maxZoom": 13,
+      "bounds": [
+        126.39030871884474,
+        37.2870047650018,
+        126.84302528115528,
+        37.646329234998205
+      ]
+    },
+    {
+      "id": "iraklion",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/iraklion.e552f760fdfe6f800896c0862a5533f87b9f1e184838944fd7f3c1834d4a4f7c.pmtiles",
+      "byteLength": 2588224,
+      "sha256": "e552f760fdfe6f800896c0862a5533f87b9f1e184838944fd7f3c1834d4a4f7c",
+      "maxZoom": 13,
+      "bounds": [
+        24.929726624311552,
+        35.1703377650018,
+        25.370273375688445,
+        35.529662234998206
+      ]
+    },
+    {
+      "id": "istanbul",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/istanbul.72cb335a5779d33ae600f86209ae5abc075b162840648f747302337cca56b41e.pmtiles",
+      "byteLength": 8287906,
+      "sha256": "72cb335a5779d33ae600f86209ae5abc075b162840648f747302337cca56b41e",
+      "maxZoom": 13,
+      "bounds": [
+        28.728551981918926,
+        40.837004765001794,
+        29.204782018081076,
+        41.1963292349982
+      ]
+    },
+    {
+      "id": "itajai",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/itajai.e618fabafc815feab0941eafc67ab9581d72602c2120bcbe9f4620d6a1f33ae9.pmtiles",
+      "byteLength": 2094630,
+      "sha256": "e618fabafc815feab0941eafc67ab9581d72602c2120bcbe9f4620d6a1f33ae9",
+      "maxZoom": 13,
+      "bounds": [
+        -48.834823534472406,
+        -27.096329234998205,
+        -48.431842465527595,
+        -26.737004765001796
+      ]
+    },
+    {
+      "id": "jacksonville",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/jacksonville.dd338cfb676707c5d68d6de15d3b207eec45966a16ab05a58fe61ad2ef2ec568.pmtiles",
+      "byteLength": 8404628,
+      "sha256": "dd338cfb676707c5d68d6de15d3b207eec45966a16ab05a58fe61ad2ef2ec568",
+      "maxZoom": 13,
+      "bounds": [
+        -81.85812336536458,
+        30.137004765001794,
+        -81.44187663463543,
+        30.496329234998203
+      ]
+    },
+    {
+      "id": "jakarta",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/jakarta.aefa665b2d9425a1b052f18adb0729e128aa62752dc0aadfae48275d98f5f914.pmtiles",
+      "byteLength": 4694141,
+      "sha256": "aefa665b2d9425a1b052f18adb0729e128aa62752dc0aadfae48275d98f5f914",
+      "maxZoom": 13,
+      "bounds": [
+        106.7026477148228,
+        -6.279662234998203,
+        107.06401828517718,
+        -5.920337765001796
+      ]
+    },
+    {
+      "id": "jeddah",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/jeddah.03f87b5a4e554564ff61e6dbf41b301edc8f1e86c75a4e4f780f3eb25b0f36ca.pmtiles",
+      "byteLength": 2039475,
+      "sha256": "03f87b5a4e554564ff61e6dbf41b301edc8f1e86c75a4e4f780f3eb25b0f36ca",
+      "maxZoom": 13,
+      "bounds": [
+        38.990256617604345,
+        21.303670765001794,
+        39.37640938239565,
+        21.662995234998203
+      ]
+    },
+    {
+      "id": "juneau",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/juneau.f016e3b7f717924f25acc9aa41b4d82129511781f16ec48ac9cc2187cae5cc16.pmtiles",
+      "byteLength": 1335505,
+      "sha256": "f016e3b7f717924f25acc9aa41b4d82129511781f16ec48ac9cc2187cae5cc16",
+      "maxZoom": 13,
+      "bounds": [
+        -134.75857361785765,
+        58.12033776500179,
+        -134.07476038214233,
+        58.4796622349982
+      ]
+    },
+    {
+      "id": "kangerlussuaq",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kangerlussuaq.bb7aad7cf77e97f3b8030b1024b6d9a02ef4ae90669c50042220c98caf9ab9eb.pmtiles",
+      "byteLength": 700039,
+      "sha256": "bb7aad7cf77e97f3b8030b1024b6d9a02ef4ae90669c50042220c98caf9ab9eb",
+      "maxZoom": 13,
+      "bounds": [
+        -51.40886720018024,
+        66.7703377650018,
+        -50.491132799819766,
+        67.12966223499821
+      ]
+    },
+    {
+      "id": "kaohsiung",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kaohsiung.2a12bdc70dc328c4e1434582b51d67d6d6479073d89f0d2bb94888ccc2023bb3.pmtiles",
+      "byteLength": 3107117,
+      "sha256": "2a12bdc70dc328c4e1434582b51d67d6d6479073d89f0d2bb94888ccc2023bb3",
+      "maxZoom": 13,
+      "bounds": [
+        120.05537043811337,
+        22.437004765001795,
+        120.44462956188663,
+        22.796329234998204
+      ]
+    },
+    {
+      "id": "keelung",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/keelung.a3f59f727573f774773be6c538cf177f26cb00eaac16647665ecc69c00cb42e6.pmtiles",
+      "byteLength": 4653611,
+      "sha256": "a3f59f727573f774773be6c538cf177f26cb00eaac16647665ecc69c00cb42e6",
+      "maxZoom": 13,
+      "bounds": [
+        121.54536815766664,
+        24.952817765001797,
+        121.94226784233337,
+        25.312142234998205
+      ]
+    },
+    {
+      "id": "kemi",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kemi.30705441e6e41227ccc35a6886810968a6fb93126468b7a4c6346209ceb73a07.pmtiles",
+      "byteLength": 2997285,
+      "sha256": "30705441e6e41227ccc35a6886810968a6fb93126468b7a4c6346209ceb73a07",
+      "maxZoom": 13,
+      "bounds": [
+        24.129515655488557,
+        65.5536707650018,
+        25.00381834451144,
+        65.9129952349982
+      ]
+    },
+    {
+      "id": "kiel",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kiel.edfe1c48767407322f00b2d9138351868c00759cf0c4958ec01be1ca61259ef7.pmtiles",
+      "byteLength": 9067190,
+      "sha256": "edfe1c48767407322f00b2d9138351868c00759cf0c4958ec01be1ca61259ef7",
+      "maxZoom": 13,
+      "bounds": [
+        9.825325613778013,
+        54.1370047650018,
+        10.441340386221988,
+        54.49632923499821
+      ]
+    },
+    {
+      "id": "king-george-island",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/king-george-island.2cd7645c085a890f6c3a40a002334239a2a9897459f8eeecc3b78adb4f732714.pmtiles",
+      "byteLength": 574164,
+      "sha256": "2cd7645c085a890f6c3a40a002334239a2a9897459f8eeecc3b78adb4f732714",
+      "maxZoom": 13,
+      "bounds": [
+        -59.20210133013388,
+        -62.396329234998205,
+        -58.43123266986613,
+        -62.0370047650018
+      ]
+    },
+    {
+      "id": "kirkenes",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kirkenes.37ac1b9038038756314dd28b49f7e15c96b4c2ed92d74f549bb2a16d34874819.pmtiles",
+      "byteLength": 7201195,
+      "sha256": "37ac1b9038038756314dd28b49f7e15c96b4c2ed92d74f549bb2a16d34874819",
+      "maxZoom": 13,
+      "bounds": [
+        29.550307060051843,
+        69.55005976500179,
+        30.587470939948155,
+        69.9093842349982
+      ]
+    },
+    {
+      "id": "kobe",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kobe.b0213750f6769a821170f658fb50c360238d437cd58bdff0fc1f14e508c71304.pmtiles",
+      "byteLength": 7443590,
+      "sha256": "b0213750f6769a821170f658fb50c360238d437cd58bdff0fc1f14e508c71304",
+      "maxZoom": 13,
+      "bounds": [
+        134.98442776954565,
+        34.500762765001795,
+        135.42138223045433,
+        34.860087234998204
+      ]
+    },
+    {
+      "id": "kochi",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kochi.33a6b6fbd9652a068d3800cfe0fe3af623646cc2c4321c710510195d3f873fc9.pmtiles",
+      "byteLength": 3015182,
+      "sha256": "33a6b6fbd9652a068d3800cfe0fe3af623646cc2c4321c710510195d3f873fc9",
+      "maxZoom": 13,
+      "bounds": [
+        76.05091786704347,
+        9.787004765001797,
+        76.41574813295654,
+        10.146329234998202
+      ]
+    },
+    {
+      "id": "kusadasi",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/kusadasi.7809963e08e7f4cf2ba91f9d1346e2611cbcf8c1bbba7f1d272643a2ac2caa0d.pmtiles",
+      "byteLength": 2075071,
+      "sha256": "7809963e08e7f4cf2ba91f9d1346e2611cbcf8c1bbba7f1d272643a2ac2caa0d",
+      "maxZoom": 13,
+      "bounds": [
+        27.022418507294958,
+        37.687004765001795,
+        27.477581492705042,
+        38.046329234998204
+      ]
+    },
+    {
+      "id": "la-romana",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/la-romana.498a29c5a0220cf5cf3c4dbc23ed4295f0d57897926dfc94f38631806db0fd62.pmtiles",
+      "byteLength": 922965,
+      "sha256": "498a29c5a0220cf5cf3c4dbc23ed4295f0d57897926dfc94f38631806db0fd62",
+      "maxZoom": 13,
+      "bounds": [
+        -69.15602749342068,
+        18.237004765001796,
+        -68.77730650657932,
+        18.596329234998205
+      ]
+    },
+    {
+      "id": "la-spezia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/la-spezia.a96e33f63ff1512f596e7e4c18b7904d411f6f1991e010de431daf05d5972c12.pmtiles",
+      "byteLength": 5450805,
+      "sha256": "a96e33f63ff1512f596e7e4c18b7904d411f6f1991e010de431daf05d5972c12",
+      "maxZoom": 13,
+      "bounds": [
+        9.583151053512573,
+        43.9203377650018,
+        10.083514946487426,
+        44.279662234998206
+      ]
+    },
+    {
+      "id": "laem-chabang",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/laem-chabang.621738257d04a5d77d618061ff1587c995b860d56276ca99d215997df49bec68.pmtiles",
+      "byteLength": 1892343,
+      "sha256": "621738257d04a5d77d618061ff1587c995b860d56276ca99d215997df49bec68",
+      "maxZoom": 13,
+      "bounds": [
+        100.69888277991971,
+        12.903670765001797,
+        101.06778322008027,
+        13.262995234998202
+      ]
+    },
+    {
+      "id": "las-palmas",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/las-palmas.8db0c47ee0da003155e71b4fd02872513ee59361736655a7b6a856aa8f381cb7.pmtiles",
+      "byteLength": 1823003,
+      "sha256": "8db0c47ee0da003155e71b4fd02872513ee59361736655a7b6a856aa8f381cb7",
+      "maxZoom": 13,
+      "bounds": [
+        -15.620431407071376,
+        27.970337765001794,
+        -15.212902592928625,
+        28.329662234998203
+      ]
+    },
+    {
+      "id": "lautoka",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/lautoka.330b5dcf9d5b5c35e4cf89d906649f58d51cf3b1fa4cb1580906958db1755c9b.pmtiles",
+      "byteLength": 703316,
+      "sha256": "330b5dcf9d5b5c35e4cf89d906649f58d51cf3b1fa4cb1580906958db1755c9b",
+      "maxZoom": 13,
+      "bounds": [
+        177.2615149035038,
+        -17.779662234998206,
+        177.63848509649617,
+        -17.420337765001797
+      ]
+    },
+    {
+      "id": "lavrion",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/lavrion.ccbc974a34cf1bb4097f88bba90569da77de5ccc4aec1743282b48c6505808b2.pmtiles",
+      "byteLength": 2334895,
+      "sha256": "ccbc974a34cf1bb4097f88bba90569da77de5ccc4aec1743282b48c6505808b2",
+      "maxZoom": 13,
+      "bounds": [
+        23.839598128167562,
+        37.5203377650018,
+        24.293735871832435,
+        37.87966223499821
+      ]
+    },
+    {
+      "id": "le-havre",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/le-havre.34e07e02764b33846f5eda172bb5879e60828eb5ac806119e205a316dd2eee93.pmtiles",
+      "byteLength": 5233655,
+      "sha256": "34e07e02764b33846f5eda172bb5879e60828eb5ac806119e205a316dd2eee93",
+      "maxZoom": 13,
+      "bounds": [
+        -0.15987717033959054,
+        49.3036707650018,
+        0.3932111703395906,
+        49.662995234998206
+      ]
+    },
+    {
+      "id": "limassol",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/limassol.a78359f71a4328b7f3337457c91a3c4e670c0197d8b9a3beb8675bbedc5b9ddf.pmtiles",
+      "byteLength": 2649455,
+      "sha256": "a78359f71a4328b7f3337457c91a3c4e670c0197d8b9a3beb8675bbedc5b9ddf",
+      "maxZoom": 13,
+      "bounds": [
+        32.8315590566183,
+        34.48700476500179,
+        33.26844094338169,
+        34.8463292349982
+      ]
+    },
+    {
+      "id": "lisbon",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/lisbon.86d6f5539e06c726d90763331f464891b85ff0a60ded72c3ae693e6ca9330d23.pmtiles",
+      "byteLength": 7909185,
+      "sha256": "86d6f5539e06c726d90763331f464891b85ff0a60ded72c3ae693e6ca9330d23",
+      "maxZoom": 13,
+      "bounds": [
+        -9.396876168311296,
+        38.5203377650018,
+        -8.936457831688704,
+        38.87966223499821
+      ]
+    },
+    {
+      "id": "liverpool",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/liverpool.974995b98e88fdaf2ae6b898830ca6c684249361c87bd9cf91c01a9394ee9614.pmtiles",
+      "byteLength": 9759304,
+      "sha256": "974995b98e88fdaf2ae6b898830ca6c684249361c87bd9cf91c01a9394ee9614",
+      "maxZoom": 13,
+      "bounds": [
+        -3.301451095839881,
+        53.23700476500179,
+        -2.698548904160119,
+        53.5963292349982
+      ]
+    },
+    {
+      "id": "livorno",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/livorno.db9035e5f241d0c4471963edbdcde19a253d0a4aee97775f63bed1123e442464.pmtiles",
+      "byteLength": 3828974,
+      "sha256": "db9035e5f241d0c4471963edbdcde19a253d0a4aee97775f63bed1123e442464",
+      "maxZoom": 13,
+      "bounds": [
+        10.042145436240936,
+        43.3623377650018,
+        10.537854563759062,
+        43.721662234998206
+      ]
+    },
+    {
+      "id": "london",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/london.8891ce44b137d8fa690ca16bbe0d3196869c2d561fdb09ea34f1b4f59cb23d7f.pmtiles",
+      "byteLength": 11683769,
+      "sha256": "8891ce44b137d8fa690ca16bbe0d3196869c2d561fdb09ea34f1b4f59cb23d7f",
+      "maxZoom": 13,
+      "bounds": [
+        0.04493663401530873,
+        51.2870047650018,
+        0.6217293659846912,
+        51.646329234998205
+      ]
+    },
+    {
+      "id": "long-beach",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/long-beach.69d38d85dbd0c807a28678d4876a0c86c1a9a593df0b4282afed16c15d791df8.pmtiles",
+      "byteLength": 6355756,
+      "sha256": "69d38d85dbd0c807a28678d4876a0c86c1a9a593df0b4282afed16c15d791df8",
+      "maxZoom": 13,
+      "bounds": [
+        -118.3994529489824,
+        33.587004765001794,
+        -117.96721305101761,
+        33.9463292349982
+      ]
+    },
+    {
+      "id": "longyearbyen",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/longyearbyen.1872bdfeb6754cc87c450ad1910de185f3e2de5843f082e976693ebf9119f639.pmtiles",
+      "byteLength": 720570,
+      "sha256": "1872bdfeb6754cc87c450ad1910de185f3e2de5843f082e976693ebf9119f639",
+      "maxZoom": 13,
+      "bounds": [
+        14.75276938927015,
+        78.0475597650018,
+        16.51389661072985,
+        78.4068842349982
+      ]
+    },
+    {
+      "id": "los-angeles",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/los-angeles.6ceaf59f96081ad7c0edf192b8d32ed54705c37052db7e9f406dde2724770dda.pmtiles",
+      "byteLength": 5184727,
+      "sha256": "6ceaf59f96081ad7c0edf192b8d32ed54705c37052db7e9f406dde2724770dda",
+      "maxZoom": 13,
+      "bounds": [
+        -118.46607793278298,
+        33.570337765001796,
+        -118.03392206721702,
+        33.929662234998204
+      ]
+    },
+    {
+      "id": "maceio",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/maceio.153e3146c0b5ac7dfc85568e0eb6524a3ffaed0aa526533469f3f7753d460565.pmtiles",
+      "byteLength": 1752321,
+      "sha256": "153e3146c0b5ac7dfc85568e0eb6524a3ffaed0aa526533469f3f7753d460565",
+      "maxZoom": 13,
+      "bounds": [
+        -35.91558294280666,
+        -9.846329234998203,
+        -35.551083057193345,
+        -9.487004765001798
+      ]
+    },
+    {
+      "id": "mahe",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/mahe.78db66eef68198f95ae534bb25e80ec0e3f7214db1992c50c637d3c2955c3421.pmtiles",
+      "byteLength": 476641,
+      "sha256": "78db66eef68198f95ae534bb25e80ec0e3f7214db1992c50c637d3c2955c3421",
+      "maxZoom": 13,
+      "bounds": [
+        55.26975295470618,
+        -4.796329234998203,
+        55.63024704529383,
+        -4.437004765001796
+      ]
+    },
+    {
+      "id": "malaga",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/malaga.23ec9f27cbd55b53da6538b559d2f7d225a422ed4cc11de9f7bcb63184e4b657.pmtiles",
+      "byteLength": 4693604,
+      "sha256": "23ec9f27cbd55b53da6538b559d2f7d225a422ed4cc11de9f7bcb63184e4b657",
+      "maxZoom": 13,
+      "bounds": [
+        -4.640796041253939,
+        36.5370047650018,
+        -4.192537958746062,
+        36.896329234998205
+      ]
+    },
+    {
+      "id": "manaus",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/manaus.3096b61c6279c7c16f3e0948c2a52f70211f571c1e7eb0b46b409dd78bbdf830.pmtiles",
+      "byteLength": 1508520,
+      "sha256": "3096b61c6279c7c16f3e0948c2a52f70211f571c1e7eb0b46b409dd78bbdf830",
+      "maxZoom": 13,
+      "bounds": [
+        -60.196598225003264,
+        -3.3129952349982035,
+        -59.83673577499673,
+        -2.9536707650017964
+      ]
+    },
+    {
+      "id": "manila",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/manila.e440c88267a4b46219f68fc934eb4b7ef631946525ba7e739294b03aa329e172.pmtiles",
+      "byteLength": 5513399,
+      "sha256": "e440c88267a4b46219f68fc934eb4b7ef631946525ba7e739294b03aa329e172",
+      "maxZoom": 13,
+      "bounds": [
+        120.7810237967486,
+        14.403670765001797,
+        121.1523102032514,
+        14.762995234998202
+      ]
+    },
+    {
+      "id": "marigot",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/marigot.dbe731da20f77394caf15af629fea9add2ae3a2e3950c65bdf1a171d523a0730.pmtiles",
+      "byteLength": 1057654,
+      "sha256": "dbe731da20f77394caf15af629fea9add2ae3a2e3950c65bdf1a171d523a0730",
+      "maxZoom": 13,
+      "bounds": [
+        -63.27231262736177,
+        17.887004765001794,
+        -62.894353372638236,
+        18.246329234998203
+      ]
+    },
+    {
+      "id": "marmaris",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/marmaris.077dce69a945a973cb974e5a1ff7b3695482f2f60648b9caca1e48a7e989a323.pmtiles",
+      "byteLength": 1935953,
+      "sha256": "077dce69a945a973cb974e5a1ff7b3695482f2f60648b9caca1e48a7e989a323",
+      "maxZoom": 13,
+      "bounds": [
+        28.058813670921253,
+        36.6703377650018,
+        28.507852329078744,
+        37.029662234998206
+      ]
+    },
+    {
+      "id": "marseille",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/marseille.b0bd9753fc6e61417c281cf5d147168b3c9bd536e6e4cc49eaba4baeb6af9bda.pmtiles",
+      "byteLength": 6020870,
+      "sha256": "b0bd9753fc6e61417c281cf5d147168b3c9bd536e6e4cc49eaba4baeb6af9bda",
+      "maxZoom": 13,
+      "bounds": [
+        5.119733456436758,
+        43.1370047650018,
+        5.6136005435632415,
+        43.49632923499821
+      ]
+    },
+    {
+      "id": "melaka",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/melaka.f8f155126290696da607e69f0e4d36a117eed0479fde6256c933db03e95fb95b.pmtiles",
+      "byteLength": 1836175,
+      "sha256": "f8f155126290696da607e69f0e4d36a117eed0479fde6256c933db03e95fb95b",
+      "maxZoom": 13,
+      "bounds": [
+        102.07020524123566,
+        2.0203377650017966,
+        102.42979475876434,
+        2.3796622349982037
+      ]
+    },
+    {
+      "id": "melbourne",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/melbourne.950a7de5a858ed381dfbf52b4737e49cc1d3e99ce8284b62591f1aa9b4df3847.pmtiles",
+      "byteLength": 7201793,
+      "sha256": "950a7de5a858ed381dfbf52b4737e49cc1d3e99ce8284b62591f1aa9b4df3847",
+      "maxZoom": 13,
+      "bounds": [
+        144.73918837245603,
+        -38.01299523499821,
+        145.19414562754397,
+        -37.6536707650018
+      ]
+    },
+    {
+      "id": "messina",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/messina.af50791f81251e6626b6316b0118ec7e5fd9e659c84a5c1684b96dad4db8faca.pmtiles",
+      "byteLength": 2717581,
+      "sha256": "af50791f81251e6626b6316b0118ec7e5fd9e659c84a5c1684b96dad4db8faca",
+      "maxZoom": 13,
+      "bounds": [
+        15.338047468176281,
+        38.0203377650018,
+        15.79528653182372,
+        38.37966223499821
+      ]
+    },
+    {
+      "id": "miami",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/miami.d2efe4d8d2727a154390a6a023aafc699516b800f72a593302ccb2f642142167.pmtiles",
+      "byteLength": 3829670,
+      "sha256": "d2efe4d8d2727a154390a6a023aafc699516b800f72a593302ccb2f642142167",
+      "maxZoom": 13,
+      "bounds": [
+        -80.36927835390962,
+        25.596760765001797,
+        -79.97024964609038,
+        25.956085234998206
+      ]
+    },
+    {
+      "id": "mobile",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/mobile.0f55305ff67120df0354f80ea77345d3f13e6e4beee34667491ca709e6f5cc1b.pmtiles",
+      "byteLength": 3272985,
+      "sha256": "0f55305ff67120df0354f80ea77345d3f13e6e4beee34667491ca709e6f5cc1b",
+      "maxZoom": 13,
+      "bounds": [
+        -88.32557639360957,
+        30.503670765001797,
+        -87.90775760639045,
+        30.862995234998206
+      ]
+    },
+    {
+      "id": "mombasa",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/mombasa.67839020015e9744276777224e10c073949bfc4e8300996fc7eea95830508fa3.pmtiles",
+      "byteLength": 1088222,
+      "sha256": "67839020015e9744276777224e10c073949bfc4e8300996fc7eea95830508fa3",
+      "maxZoom": 13,
+      "bounds": [
+        39.486551271285066,
+        -4.246329234998203,
+        39.84678272871493,
+        -3.8870047650017963
+      ]
+    },
+    {
+      "id": "monaco",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/monaco.f9590b0552c22e75038e19b9cf5daf6c88ecdaddbc1936aae6cb0944550a7aac.pmtiles",
+      "byteLength": 4487618,
+      "sha256": "f9590b0552c22e75038e19b9cf5daf6c88ecdaddbc1936aae6cb0944550a7aac",
+      "maxZoom": 13,
+      "bounds": [
+        7.168021946627134,
+        43.5536707650018,
+        7.665312053372866,
+        43.912995234998206
+      ]
+    },
+    {
+      "id": "montego-bay",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/montego-bay.b6b7c93e8322325905fe18139c3e8cb0dad9e446aa3ca042bcfc6233456ef7c0.pmtiles",
+      "byteLength": 1021713,
+      "sha256": "b6b7c93e8322325905fe18139c3e8cb0dad9e446aa3ca042bcfc6233456ef7c0",
+      "maxZoom": 13,
+      "bounds": [
+        -78.1227486057076,
+        18.287004765001797,
+        -77.74391739429241,
+        18.646329234998205
+      ]
+    },
+    {
+      "id": "montevideo",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/montevideo.3435a79531607cd454540e545c64faa1dd774ad3233cb85dd4a208ae766268ef.pmtiles",
+      "byteLength": 1782390,
+      "sha256": "3435a79531607cd454540e545c64faa1dd774ad3233cb85dd4a208ae766268ef",
+      "maxZoom": 13,
+      "bounds": [
+        -56.43572671355219,
+        -35.0796622349982,
+        -55.99760728644781,
+        -34.720337765001794
+      ]
+    },
+    {
+      "id": "montreal",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/montreal.5ba5b53ff5690cd1ee90cad23a0e994b30bc14ee34d552411945ee1dce6014c2.pmtiles",
+      "byteLength": 7340663,
+      "sha256": "5ba5b53ff5690cd1ee90cad23a0e994b30bc14ee34d552411945ee1dce6014c2",
+      "maxZoom": 13,
+      "bounds": [
+        -73.80640328981939,
+        45.337004765001794,
+        -73.29359671018061,
+        45.6963292349982
+      ]
+    },
+    {
+      "id": "mormugao",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/mormugao.79b84910564a2bd7bdbbffec230fdd7b8d032a47676db7e32b86b4cd7978b61b.pmtiles",
+      "byteLength": 2789329,
+      "sha256": "79b84910564a2bd7bdbbffec230fdd7b8d032a47676db7e32b86b4cd7978b61b",
+      "maxZoom": 13,
+      "bounds": [
+        73.60863114181976,
+        15.237837765001798,
+        73.98136885818025,
+        15.597162234998203
+      ]
+    },
+    {
+      "id": "mumbai",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/mumbai.7e624aaaee7d53cff198408a355ec19bbf2bb3917b57cc9a51fd8fef718d86cc.pmtiles",
+      "byteLength": 3142610,
+      "sha256": "7e624aaaee7d53cff198408a355ec19bbf2bb3917b57cc9a51fd8fef718d86cc",
+      "maxZoom": 13,
+      "bounds": [
+        72.67669052851247,
+        18.787004765001797,
+        73.05664347148755,
+        19.146329234998205
+      ]
+    },
+    {
+      "id": "nagoya",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/nagoya.0dba918538b7b1a667063e3fa8b6ef4f93815a7a060bb8f8d655fa3349788ba0.pmtiles",
+      "byteLength": 10314246,
+      "sha256": "0dba918538b7b1a667063e3fa8b6ef4f93815a7a060bb8f8d655fa3349788ba0",
+      "maxZoom": 13,
+      "bounds": [
+        136.6471609216586,
+        34.8870047650018,
+        137.0861730783414,
+        35.24632923499821
+      ]
+    },
+    {
+      "id": "naha",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/naha.2caca6d6a08dcc5bd99c8c9791345c6f4d68b009c1245d52f8a2d169d0d81ef8.pmtiles",
+      "byteLength": 2452397,
+      "sha256": "2caca6d6a08dcc5bd99c8c9791345c6f4d68b009c1245d52f8a2d169d0d81ef8",
+      "maxZoom": 13,
+      "bounds": [
+        127.48306965470466,
+        26.037004765001797,
+        127.88359634529535,
+        26.396329234998205
+      ]
+    },
+    {
+      "id": "nansha",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/nansha.ed798dda0e058b21e78c99246dc599ea36b0253c6e5c23ac841d03660173e2fc.pmtiles",
+      "byteLength": 3438640,
+      "sha256": "ed798dda0e058b21e78c99246dc599ea36b0253c6e5c23ac841d03660173e2fc",
+      "maxZoom": 13,
+      "bounds": [
+        113.40772701740495,
+        22.596283765001797,
+        113.79743898259504,
+        22.955608234998206
+      ]
+    },
+    {
+      "id": "naples",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/naples.ccac7fc79750a454d94a8e5f376a646137b450bfe95821d42f0af0508a7dc9c6.pmtiles",
+      "byteLength": 7607271,
+      "sha256": "ccac7fc79750a454d94a8e5f376a646137b450bfe95821d42f0af0508a7dc9c6",
+      "maxZoom": 13,
+      "bounds": [
+        14.037545834694527,
+        40.653337765001794,
+        14.512454165305474,
+        41.0126622349982
+      ]
+    },
+    {
+      "id": "nassau",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/nassau.22a9097e9c5627545240c8cf6ff0bfb7351d4f6f42de844709dd607fc153e8ab.pmtiles",
+      "byteLength": 1013669,
+      "sha256": "22a9097e9c5627545240c8cf6ff0bfb7351d4f6f42de844709dd607fc153e8ab",
+      "maxZoom": 13,
+      "bounds": [
+        -77.5483700901639,
+        24.903670765001795,
+        -77.15162990983609,
+        25.262995234998204
+      ]
+    },
+    {
+      "id": "new-orleans",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/new-orleans.5847df934660c41c70781703439d5561cd7f78c9fea729a56fe91d04cc29e86e.pmtiles",
+      "byteLength": 4052096,
+      "sha256": "5847df934660c41c70781703439d5561cd7f78c9fea729a56fe91d04cc29e86e",
+      "maxZoom": 13,
+      "bounds": [
+        -90.25735168779035,
+        29.770337765001795,
+        -89.84264831220965,
+        30.129662234998204
+      ]
+    },
+    {
+      "id": "new-york-city",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/new-york-city.717c16d36017ebef113a7d1e8266ba752e8fc9e93d0a321df9524ad77c3238d4.pmtiles",
+      "byteLength": 9582419,
+      "sha256": "717c16d36017ebef113a7d1e8266ba752e8fc9e93d0a321df9524ad77c3238d4",
+      "maxZoom": 13,
+      "bounds": [
+        -74.25364641963594,
+        40.5203377650018,
+        -73.77968758036405,
+        40.87966223499821
+      ]
+    },
+    {
+      "id": "newcastle",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/newcastle.ec7744f70a331f50b7f15a09c1aeb311e4a834cd250cd6604f15851c031488e1.pmtiles",
+      "byteLength": 6729485,
+      "sha256": "ec7744f70a331f50b7f15a09c1aeb311e4a834cd250cd6604f15851c031488e1",
+      "maxZoom": 13,
+      "bounds": [
+        -1.7132315479017424,
+        54.820337765001796,
+        -1.0867684520982575,
+        55.179662234998204
+      ]
+    },
+    {
+      "id": "nha-trang",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/nha-trang.93d15be589c26aa760ead419a231507d5c8afa62ce90a46936a1fcba72a5cb14.pmtiles",
+      "byteLength": 1302530,
+      "sha256": "93d15be589c26aa760ead419a231507d5c8afa62ce90a46936a1fcba72a5cb14",
+      "maxZoom": 13,
+      "bounds": [
+        109.04948474362538,
+        12.070337765001797,
+        109.41718125637462,
+        12.429662234998203
+      ]
+    },
+    {
+      "id": "nice",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/nice.7617e1fa9efb940730797d2905330f909cd1c2ab7da55010a24a51ac14793fd6.pmtiles",
+      "byteLength": 4548191,
+      "sha256": "7617e1fa9efb940730797d2905330f909cd1c2ab7da55010a24a51ac14793fd6",
+      "maxZoom": 13,
+      "bounds": [
+        7.034826223426951,
+        43.5203377650018,
+        7.531839776573048,
+        43.87966223499821
+      ]
+    },
+    {
+      "id": "norfolk",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/norfolk.eebd969dce17d2d90695234511fba9d14cf11856859954d5d0ad3133326b0f12.pmtiles",
+      "byteLength": 5819800,
+      "sha256": "eebd969dce17d2d90695234511fba9d14cf11856859954d5d0ad3133326b0f12",
+      "maxZoom": 13,
+      "bounds": [
+        -76.52451932907874,
+        36.6703377650018,
+        -76.07548067092125,
+        37.029662234998206
+      ]
+    },
+    {
+      "id": "nuuk",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/nuuk.d7b86a89daf6a5cd9c8f727b4817a90373b35411d35a9b04b529443b75a9bc65.pmtiles",
+      "byteLength": 1364794,
+      "sha256": "d7b86a89daf6a5cd9c8f727b4817a90373b35411d35a9b04b529443b75a9bc65",
+      "maxZoom": 13,
+      "bounds": [
+        -52.16254909711013,
+        64.0036707650018,
+        -51.33745090288987,
+        64.36299523499821
+      ]
+    },
+    {
+      "id": "oranjestad",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/oranjestad.0b66605849daf23befb0f9bd56931ba8ad1d4b7397e56e8357f0738b2e606b3a.pmtiles",
+      "byteLength": 988736,
+      "sha256": "0b66605849daf23befb0f9bd56931ba8ad1d4b7397e56e8357f0738b2e606b3a",
+      "maxZoom": 13,
+      "bounds": [
+        -70.21736922302314,
+        12.337004765001797,
+        -69.84929677697686,
+        12.696329234998203
+      ]
+    },
+    {
+      "id": "osaka",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/osaka.aa0e8f50e11c5aaf2e0ecfcb3fb8a2e95304b6286004b408fb4d7974466d28ff.pmtiles",
+      "byteLength": 10295923,
+      "sha256": "aa0e8f50e11c5aaf2e0ecfcb3fb8a2e95304b6286004b408fb4d7974466d28ff",
+      "maxZoom": 13,
+      "bounds": [
+        135.2149359832442,
+        34.470337765001794,
+        135.6517300167558,
+        34.8296622349982
+      ]
+    },
+    {
+      "id": "oslo",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/oslo.93149cce38cee34b0e99a4ac948a816b8fcd3f6b686bc972510054d7b2c164f2.pmtiles",
+      "byteLength": 12183841,
+      "sha256": "93149cce38cee34b0e99a4ac948a816b8fcd3f6b686bc972510054d7b2c164f2",
+      "maxZoom": 13,
+      "bounds": [
+        10.38733491597166,
+        59.71839376500179,
+        11.10377708402834,
+        60.0777182349982
+      ]
+    },
+    {
+      "id": "otaru",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/otaru.633b55c5ac68576fd52050c9b7c69b16301dd65d3735a0f6a85467ebd0b47b82.pmtiles",
+      "byteLength": 2066915,
+      "sha256": "633b55c5ac68576fd52050c9b7c69b16301dd65d3735a0f6a85467ebd0b47b82",
+      "maxZoom": 13,
+      "bounds": [
+        140.77020613976558,
+        43.0203377650018,
+        141.26312786023445,
+        43.37966223499821
+      ]
+    },
+    {
+      "id": "palermo",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/palermo.14883b0adb7fa289273b9379ef2d1eb8affa6d849754334ad53f7809d18a423d.pmtiles",
+      "byteLength": 2172530,
+      "sha256": "14883b0adb7fa289273b9379ef2d1eb8affa6d849754334ad53f7809d18a423d",
+      "maxZoom": 13,
+      "bounds": [
+        13.151634293386989,
+        37.939337765001795,
+        13.608365706613013,
+        38.298662234998204
+      ]
+    },
+    {
+      "id": "palm-beach",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/palm-beach.aadfa40a121fd064eeaa3d8968d8d3cbc0e2fd44afac845104ab9bd1c1738a98.pmtiles",
+      "byteLength": 3602681,
+      "sha256": "aadfa40a121fd064eeaa3d8968d8d3cbc0e2fd44afac845104ab9bd1c1738a98",
+      "maxZoom": 13,
+      "bounds": [
+        -80.25122376943497,
+        26.587004765001797,
+        -79.84877623056502,
+        26.946329234998206
+      ]
+    },
+    {
+      "id": "palma-de-mallorca",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/palma-de-mallorca.02c26f9518398df91fe4ba6cef87ab421c10e1e35fcdd995715854a115a7ada5.pmtiles",
+      "byteLength": 3869922,
+      "sha256": "02c26f9518398df91fe4ba6cef87ab421c10e1e35fcdd995715854a115a7ada5",
+      "maxZoom": 13,
+      "bounds": [
+        2.4002729710280915,
+        39.3870047650018,
+        2.8663930289719084,
+        39.74632923499821
+      ]
+    },
+    {
+      "id": "panama-city",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/panama-city.20d0fbf431fb5cfc703a972dbb267b2969800cef2f9c314a87472085ae8773db.pmtiles",
+      "byteLength": 2106578,
+      "sha256": "20d0fbf431fb5cfc703a972dbb267b2969800cef2f9c314a87472085ae8773db",
+      "maxZoom": 13,
+      "bounds": [
+        -79.74854367825588,
+        8.770337765001797,
+        -79.3847903217441,
+        9.129662234998202
+      ]
+    },
+    {
+      "id": "papeete",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/papeete.db33767d5adc01df47cdf10236e769148e3009c6726023e0922f5e9f7cc1f8d3.pmtiles",
+      "byteLength": 871157,
+      "sha256": "db33767d5adc01df47cdf10236e769148e3009c6726023e0922f5e9f7cc1f8d3",
+      "maxZoom": 13,
+      "bounds": [
+        -149.77174867934988,
+        -17.712995234998203,
+        -149.39491732065014,
+        -17.353670765001795
+      ]
+    },
+    {
+      "id": "paranagua",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/paranagua.1b029b75f6b56c6da4c17a4a5ec361852264b024a5bb8bc08d29b9aed9afdf10.pmtiles",
+      "byteLength": 1958938,
+      "sha256": "1b029b75f6b56c6da4c17a4a5ec361852264b024a5bb8bc08d29b9aed9afdf10",
+      "maxZoom": 13,
+      "bounds": [
+        -48.71571991844816,
+        -25.679662234998204,
+        -48.31761408155184,
+        -25.320337765001796
+      ]
+    },
+    {
+      "id": "philadelphia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/philadelphia.05b66db0505a26eafd1d9766b8acdb764063251aaa6dc7d2ddf8aafd649d6779.pmtiles",
+      "byteLength": 9145327,
+      "sha256": "05b66db0505a26eafd1d9766b8acdb764063251aaa6dc7d2ddf8aafd649d6779",
+      "maxZoom": 13,
+      "bounds": [
+        -75.36769386909643,
+        39.7703377650018,
+        -74.89897213090356,
+        40.12966223499821
+      ]
+    },
+    {
+      "id": "philipsburg",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/philipsburg.b0000eb98897178a4fc2799cc3f8a22f86f0f177c6e9e977588240fca88ac063.pmtiles",
+      "byteLength": 1029658,
+      "sha256": "b0000eb98897178a4fc2799cc3f8a22f86f0f177c6e9e977588240fca88ac063",
+      "maxZoom": 13,
+      "bounds": [
+        -63.238925917964494,
+        17.837004765001797,
+        -62.8610740820355,
+        18.196329234998206
+      ]
+    },
+    {
+      "id": "phuket",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/phuket.3e21b0b1297bc83ed31cc838bddddacbfb23f636d36b60a73ccdd735cd867507.pmtiles",
+      "byteLength": 1577875,
+      "sha256": "3e21b0b1297bc83ed31cc838bddddacbfb23f636d36b60a73ccdd735cd867507",
+      "maxZoom": 13,
+      "bounds": [
+        98.21864549487881,
+        7.653670765001796,
+        98.5813545051212,
+        8.012995234998202
+      ]
+    },
+    {
+      "id": "piraeus",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/piraeus.1cdd90f450a3d61b8288adf7b4878155249940228b18dad78df0d0d2732aa0ec.pmtiles",
+      "byteLength": 5266460,
+      "sha256": "1cdd90f450a3d61b8288adf7b4878155249940228b18dad78df0d0d2732aa0ec",
+      "maxZoom": 13,
+      "bounds": [
+        23.397296111884245,
+        37.7556587650018,
+        23.852883888115755,
+        38.114983234998206
+      ]
+    },
+    {
+      "id": "pointe-a-pitre",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/pointe-a-pitre.9af8b6654359a2f12287bfebae16d9284a1930de7295e88b3f1115211fb68d3e.pmtiles",
+      "byteLength": 2667487,
+      "sha256": "9af8b6654359a2f12287bfebae16d9284a1930de7295e88b3f1115211fb68d3e",
+      "maxZoom": 13,
+      "bounds": [
+        -61.720455585238604,
+        16.053670765001794,
+        -61.346210414761394,
+        16.412995234998203
+      ]
+    },
+    {
+      "id": "port-denarau",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/port-denarau.d16ebb16734e2b2e7bb968b54dacda17f8108c2b09b47ba9bcb2445487489c84.pmtiles",
+      "byteLength": 741270,
+      "sha256": "d16ebb16734e2b2e7bb968b54dacda17f8108c2b09b47ba9bcb2445487489c84",
+      "maxZoom": 13,
+      "bounds": [
+        177.18998597475425,
+        -17.953004234998204,
+        177.56732002524578,
+        -17.593679765001795
+      ]
+    },
+    {
+      "id": "port-klang",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/port-klang.8e927b3c097e408a9044c0c675eb2a5b19be5b345808de38f71b3eb8c4504491.pmtiles",
+      "byteLength": 3804517,
+      "sha256": "8e927b3c097e408a9044c0c675eb2a5b19be5b345808de38f71b3eb8c4504491",
+      "maxZoom": 13,
+      "bounds": [
+        101.22009120625262,
+        2.8203377650017964,
+        101.57990879374739,
+        3.1796622349982036
+      ]
+    },
+    {
+      "id": "port-louis",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/port-louis.72c9d801b7f3a939cc53793356217a8358e85472e56de2f0cd6b6e0392e16741.pmtiles",
+      "byteLength": 2786507,
+      "sha256": "72c9d801b7f3a939cc53793356217a8358e85472e56de2f0cd6b6e0392e16741",
+      "maxZoom": 13,
+      "bounds": [
+        57.308624430944924,
+        -20.329662234998203,
+        57.691375569055076,
+        -19.970337765001794
+      ]
+    },
+    {
+      "id": "porto",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/porto.0e97110cc4ee859ac6448e72b8c5d90066dcfe26f39ecf0aa723f4809942b8aa.pmtiles",
+      "byteLength": 5735231,
+      "sha256": "0e97110cc4ee859ac6448e72b8c5d90066dcfe26f39ecf0aa723f4809942b8aa",
+      "maxZoom": 13,
+      "bounds": [
+        -8.93872001951493,
+        41.00367076500179,
+        -8.461279980485068,
+        41.3629952349982
+      ]
+    },
+    {
+      "id": "portsmouth",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/portsmouth.7eb4636bfb336e25287c409e8df2428e080040e7f55b45b89d10f697f766c9fc.pmtiles",
+      "byteLength": 7420620,
+      "sha256": "7eb4636bfb336e25287c409e8df2428e080040e7f55b45b89d10f697f766c9fc",
+      "maxZoom": 13,
+      "bounds": [
+        -1.3842625084639055,
+        50.62033776500179,
+        -0.8157374915360946,
+        50.9796622349982
+      ]
+    },
+    {
+      "id": "praia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/praia.432961a92c8c8f1758f11d1d0b2271754f7e6d7d03160d796c818a3410e24ea0.pmtiles",
+      "byteLength": 1129241,
+      "sha256": "432961a92c8c8f1758f11d1d0b2271754f7e6d7d03160d796c818a3410e24ea0",
+      "maxZoom": 13,
+      "bounds": [
+        -23.702594770299076,
+        14.737004765001798,
+        -23.330739229700928,
+        15.096329234998203
+      ]
+    },
+    {
+      "id": "puerto-caldera",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/puerto-caldera.106166e9794e07c9ddbf6b9afea734f8553f62fb1cfefeab5baab789eed3fa21.pmtiles",
+      "byteLength": 1544620,
+      "sha256": "106166e9794e07c9ddbf6b9afea734f8553f62fb1cfefeab5baab789eed3fa21",
+      "maxZoom": 13,
+      "bounds": [
+        -84.89905423316219,
+        9.737004765001798,
+        -84.53427976683781,
+        10.096329234998203
+      ]
+    },
+    {
+      "id": "puerto-del-rosario",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/puerto-del-rosario.b6bf3f267f978861b08ea38deb1de940e1a161e4a2045faddff242c6535e442f.pmtiles",
+      "byteLength": 854500,
+      "sha256": "b6bf3f267f978861b08ea38deb1de940e1a161e4a2045faddff242c6535e442f",
+      "maxZoom": 13,
+      "bounds": [
+        -14.054436432119534,
+        28.320337765001796,
+        -13.645563567880465,
+        28.679662234998204
+      ]
+    },
+    {
+      "id": "puerto-williams",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/puerto-williams.2732785d1868a744fba371f3d300eaee5dff8f803eb1cb201ef348da00ca3fa2.pmtiles",
+      "byteLength": 2255882,
+      "sha256": "2732785d1868a744fba371f3d300eaee5dff8f803eb1cb201ef348da00ca3fa2",
+      "maxZoom": 13,
+      "bounds": [
+        -67.91271211535957,
+        -55.1129952349982,
+        -67.28728788464042,
+        -54.75367076500179
+      ]
+    },
+    {
+      "id": "punta-arenas",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/punta-arenas.5d6bf2587f7905bdc11862dd93961ecf552bae84ea21399fff74e386078be11e.pmtiles",
+      "byteLength": 1044896,
+      "sha256": "5d6bf2587f7905bdc11862dd93961ecf552bae84ea21399fff74e386078be11e",
+      "maxZoom": 13,
+      "bounds": [
+        -71.19969212675535,
+        -53.3463292349982,
+        -70.60030787324466,
+        -52.98700476500179
+      ]
+    },
+    {
+      "id": "puntarenas",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/puntarenas.3a6da7b3760cbc6630ec0efbf1726d3986413fcb3a01e5f926aa093ab9d79444.pmtiles",
+      "byteLength": 1497673,
+      "sha256": "3a6da7b3760cbc6630ec0efbf1726d3986413fcb3a01e5f926aa093ab9d79444",
+      "maxZoom": 13,
+      "bounds": [
+        -85.01575746528592,
+        9.803670765001797,
+        -84.65090853471408,
+        10.162995234998203
+      ]
+    },
+    {
+      "id": "quebec-city",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/quebec-city.d6b4e1280e2e6f7d58dd5aca77c00107647e4cc5165483ef210dd8ef854c30c6.pmtiles",
+      "byteLength": 4415910,
+      "sha256": "d6b4e1280e2e6f7d58dd5aca77c00107647e4cc5165483ef210dd8ef854c30c6",
+      "maxZoom": 13,
+      "bounds": [
+        -71.47920249592755,
+        46.6370047650018,
+        -70.95413150407245,
+        46.99632923499821
+      ]
+    },
+    {
+      "id": "ravenna",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/ravenna.96942df7f5efd91e78c9b6872ba4a6ddfd4a9256c72a790044c5abdb5db35712.pmtiles",
+      "byteLength": 2927222,
+      "sha256": "96942df7f5efd91e78c9b6872ba4a6ddfd4a9256c72a790044c5abdb5db35712",
+      "maxZoom": 13,
+      "bounds": [
+        12.03912938427247,
+        44.31533776500179,
+        12.54287061572753,
+        44.6746622349982
+      ]
+    },
+    {
+      "id": "recife",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/recife.e8921bf937891432527a5c67aab36fc98a9b0d7967d60a871ae839a3343f5b2c.pmtiles",
+      "byteLength": 2754390,
+      "sha256": "e8921bf937891432527a5c67aab36fc98a9b0d7967d60a871ae839a3343f5b2c",
+      "maxZoom": 13,
+      "bounds": [
+        -35.04811720169249,
+        -8.229662234998203,
+        -34.68521679830751,
+        -7.870337765001797
+      ]
+    },
+    {
+      "id": "reykjavik",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/reykjavik.aa3535eeaf601b2b66a3ae55d9dbe724ad2e278e1b5c5ab6a3a71f0644234f6f.pmtiles",
+      "byteLength": 4720291,
+      "sha256": "aa3535eeaf601b2b66a3ae55d9dbe724ad2e278e1b5c5ab6a3a71f0644234f6f",
+      "maxZoom": 13,
+      "bounds": [
+        -22.345386648695555,
+        63.9703377650018,
+        -21.521279351304447,
+        64.32966223499821
+      ]
+    },
+    {
+      "id": "rio-de-janeiro",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/rio-de-janeiro.692442a13b76e8f5b4726f3d4b81ab8539ffeba53dfe2b4657d2143f7cd87d14.pmtiles",
+      "byteLength": 4008728,
+      "sha256": "692442a13b76e8f5b4726f3d4b81ab8539ffeba53dfe2b4657d2143f7cd87d14",
+      "maxZoom": 13,
+      "bounds": [
+        -43.36170074012734,
+        -23.079662234998203,
+        -42.971633259872654,
+        -22.720337765001794
+      ]
+    },
+    {
+      "id": "rotterdam",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/rotterdam.1471df60d9457ff1227f43b5650842e27e238053793958686b8e6195b35d6f75.pmtiles",
+      "byteLength": 19104710,
+      "sha256": "1471df60d9457ff1227f43b5650842e27e238053793958686b8e6195b35d6f75",
+      "maxZoom": 13,
+      "bounds": [
+        4.192163163307407,
+        51.720337765001794,
+        4.7745028366925935,
+        52.0796622349982
+      ]
+    },
+    {
+      "id": "rouen",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/rouen.5c00cf1c6fba4b75eefc7af4d9cc414d13cb928b6ba03055b562bf6be6055f11.pmtiles",
+      "byteLength": 6644675,
+      "sha256": "5c00cf1c6fba4b75eefc7af4d9cc414d13cb928b6ba03055b562bf6be6055f11",
+      "maxZoom": 13,
+      "bounds": [
+        0.7903109163644984,
+        49.2703377650018,
+        1.3430230836355017,
+        49.62966223499821
+      ]
+    },
+    {
+      "id": "salerno",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/salerno.25d7737c483fbf82bb5565c5ce9f46bb77b9f2a80baceaefbd098a7a2cf0e916.pmtiles",
+      "byteLength": 3330302,
+      "sha256": "25d7737c483fbf82bb5565c5ce9f46bb77b9f2a80baceaefbd098a7a2cf0e916",
+      "maxZoom": 13,
+      "bounds": [
+        14.513139065878066,
+        40.48700476500179,
+        14.986860934121934,
+        40.8463292349982
+      ]
+    },
+    {
+      "id": "salvador",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/salvador.03169362a96fc2fc6f75768dec35c8c6f7f076f7fb2c96bfd8de0e4949a99b64.pmtiles",
+      "byteLength": 2138414,
+      "sha256": "03169362a96fc2fc6f75768dec35c8c6f7f076f7fb2c96bfd8de0e4949a99b64",
+      "maxZoom": 13,
+      "bounds": [
+        -38.70103035872339,
+        -13.146329234998202,
+        -38.3323036412766,
+        -12.787004765001797
+      ]
+    },
+    {
+      "id": "san-antonio",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/san-antonio.f0a338362e2645096866b745d2f9f291845b4c8698917e9086307a3ff170b4f0.pmtiles",
+      "byteLength": 2372819,
+      "sha256": "f0a338362e2645096866b745d2f9f291845b4c8698917e9086307a3ff170b4f0",
+      "maxZoom": 13,
+      "bounds": [
+        -71.83232667740019,
+        -33.76299523499821,
+        -71.40100732259982,
+        -33.4036707650018
+      ]
+    },
+    {
+      "id": "san-cristobal",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/san-cristobal.d08767fc269a8029f7438e1426d775bde25e5c7ea83046f8ab164fe89a27fea6.pmtiles",
+      "byteLength": 352253,
+      "sha256": "d08767fc269a8029f7438e1426d775bde25e5c7ea83046f8ab164fe89a27fea6",
+      "maxZoom": 13,
+      "bounds": [
+        -89.78987553044311,
+        -1.0822612349982035,
+        -89.43050646955689,
+        -0.7229367650017966
+      ]
+    },
+    {
+      "id": "san-diego",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/san-diego.55eeab3f11d14c4f5241453bfa4db5c54439535285c518db92a4c5f45fd8e022.pmtiles",
+      "byteLength": 4686426,
+      "sha256": "55eeab3f11d14c4f5241453bfa4db5c54439535285c518db92a4c5f45fd8e022",
+      "maxZoom": 13,
+      "bounds": [
+        -117.39687251103524,
+        32.5370047650018,
+        -116.96979348896477,
+        32.896329234998205
+      ]
+    },
+    {
+      "id": "san-francisco",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/san-francisco.0fa7089c93ecfab731d5f8616d470fe67a14cd272973969d423b0547e82ae9e4.pmtiles",
+      "byteLength": 6253666,
+      "sha256": "0fa7089c93ecfab731d5f8616d470fe67a14cd272973969d423b0547e82ae9e4",
+      "maxZoom": 13,
+      "bounds": [
+        -122.64409426176549,
+        37.6370047650018,
+        -122.18923973823452,
+        37.99632923499821
+      ]
+    },
+    {
+      "id": "san-juan",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/san-juan.6db145196d6fd9122d1fc0f9955c701ae527ed536d8fd2a5f3675e807a8de08b.pmtiles",
+      "byteLength": 2638341,
+      "sha256": "6db145196d6fd9122d1fc0f9955c701ae527ed536d8fd2a5f3675e807a8de08b",
+      "maxZoom": 13,
+      "bounds": [
+        -66.3060826057076,
+        18.287004765001797,
+        -65.92725139429241,
+        18.646329234998205
+      ]
+    },
+    {
+      "id": "santa-cruz-de-la-palma",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/santa-cruz-de-la-palma.c473f5a838c5184337f304e6cd743b293a126a7ec4f96df15f627170b71e33c5.pmtiles",
+      "byteLength": 1783306,
+      "sha256": "c473f5a838c5184337f304e6cd743b293a126a7ec4f96df15f627170b71e33c5",
+      "maxZoom": 13,
+      "bounds": [
+        -17.954793273470372,
+        28.503670765001797,
+        -17.545206726529628,
+        28.862995234998206
+      ]
+    },
+    {
+      "id": "santa-cruz-de-tenerife",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/santa-cruz-de-tenerife.013e0a98e560ab755e6e1b96b0d74939d48fc636e8c6d9882379547ce9a6a300.pmtiles",
+      "byteLength": 2537472,
+      "sha256": "013e0a98e560ab755e6e1b96b0d74939d48fc636e8c6d9882379547ce9a6a300",
+      "maxZoom": 13,
+      "bounds": [
+        -16.437704910595986,
+        28.287004765001797,
+        -16.02896108940401,
+        28.646329234998205
+      ]
+    },
+    {
+      "id": "santo-domingo",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/santo-domingo.86e1f9763b48f122b04c68550ba13d2f402e1503299592f2473d17b0dce03b1c.pmtiles",
+      "byteLength": 2132724,
+      "sha256": "86e1f9763b48f122b04c68550ba13d2f402e1503299592f2473d17b0dce03b1c",
+      "maxZoom": 13,
+      "bounds": [
+        -70.07274860570759,
+        18.287004765001797,
+        -69.6939173942924,
+        18.646329234998205
+      ]
+    },
+    {
+      "id": "santos",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/santos.ee245be762859efe8759c44e003770a2fbb8b81787eeb4ec7eae3b2e43fed2ad.pmtiles",
+      "byteLength": 2495723,
+      "sha256": "ee245be762859efe8759c44e003770a2fbb8b81787eeb4ec7eae3b2e43fed2ad",
+      "maxZoom": 13,
+      "bounds": [
+        -46.496588493597464,
+        -24.129662234998204,
+        -46.10341150640253,
+        -23.770337765001795
+      ]
+    },
+    {
+      "id": "savona",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/savona.33e8db579718c5fef0cb3cb9efc6f4e4180d9da183d0ecf8e634d04cf7b46304.pmtiles",
+      "byteLength": 6799341,
+      "sha256": "33e8db579718c5fef0cb3cb9efc6f4e4180d9da183d0ecf8e634d04cf7b46304",
+      "maxZoom": 13,
+      "bounds": [
+        8.248896070022333,
+        44.1370047650018,
+        8.751103929977667,
+        44.49632923499821
+      ]
+    },
+    {
+      "id": "seattle",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/seattle.6bce7e3113b898c7e3aec1628fb0c165a96b02b4cb8bed66d426a248d9a4147b.pmtiles",
+      "byteLength": 8677999,
+      "sha256": "6bce7e3113b898c7e3aec1628fb0c165a96b02b4cb8bed66d426a248d9a4147b",
+      "maxZoom": 13,
+      "bounds": [
+        -122.61682233680227,
+        47.4320557650018,
+        -122.08381966319772,
+        47.79138023499821
+      ]
+    },
+    {
+      "id": "seville",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/seville.f01ad32e4666bb584b580f287c553b795a97001e19867a901e283caf892f60a1.pmtiles",
+      "byteLength": 3286482,
+      "sha256": "f01ad32e4666bb584b580f287c553b795a97001e19867a901e283caf892f60a1",
+      "maxZoom": 13,
+      "bounds": [
+        -6.226056246959836,
+        37.187004765001795,
+        -5.773943753040164,
+        37.546329234998204
+      ]
+    },
+    {
+      "id": "seward",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/seward.9adf46f183b04112f033f4fe57d95986eb842a11af0f4d2560730c6020c1386c.pmtiles",
+      "byteLength": 887346,
+      "sha256": "9adf46f183b04112f033f4fe57d95986eb842a11af0f4d2560730c6020c1386c",
+      "maxZoom": 13,
+      "bounds": [
+        -149.79374755119224,
+        59.9203377650018,
+        -149.07291844880777,
+        60.279662234998206
+      ]
+    },
+    {
+      "id": "shanghai",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/shanghai.a385f278976d21befa9051d77a6fa561284c9f3cf6f3aeccfdd6d8b04f9ca42a.pmtiles",
+      "byteLength": 6229231,
+      "sha256": "a385f278976d21befa9051d77a6fa561284c9f3cf6f3aeccfdd6d8b04f9ca42a",
+      "maxZoom": 13,
+      "bounds": [
+        121.28992119738109,
+        31.037004765001797,
+        121.71007880261891,
+        31.396329234998205
+      ]
+    },
+    {
+      "id": "shenzhen",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/shenzhen.716a83ee703ddeda4fbab81fa30f217ee31d64ba643571850383af660b90db5f.pmtiles",
+      "byteLength": 5768450,
+      "sha256": "716a83ee703ddeda4fbab81fa30f217ee31d64ba643571850383af660b90db5f",
+      "maxZoom": 13,
+      "bounds": [
+        113.67224881561091,
+        22.287004765001797,
+        114.0610851843891,
+        22.646329234998205
+      ]
+    },
+    {
+      "id": "singapore",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/singapore.64abde08a89ee8538bdf96d94f41e75139faa4623446871d0ed0a397b376865f.pmtiles",
+      "byteLength": 5612301,
+      "sha256": "64abde08a89ee8538bdf96d94f41e75139faa4623446871d0ed0a397b376865f",
+      "maxZoom": 13,
+      "bounds": [
+        103.67029268841186,
+        1.1036707650017967,
+        104.02970731158813,
+        1.4629952349982034
+      ]
+    },
+    {
+      "id": "southampton",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/southampton.7ee3b600611c6bec8df0b90de15d7daf8ecdd6fbc397f84c5697b3db7dae3e2a.pmtiles",
+      "byteLength": 11047505,
+      "sha256": "7ee3b600611c6bec8df0b90de15d7daf8ecdd6fbc397f84c5697b3db7dae3e2a",
+      "maxZoom": 13,
+      "bounds": [
+        -1.698829715272433,
+        50.720525765001796,
+        -1.129082284727567,
+        51.079850234998204
+      ]
+    },
+    {
+      "id": "split",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/split.1ac328a6a7e2d6e0a64f890501d1f7dc147f9953d4edf7e4bda53a7506998266.pmtiles",
+      "byteLength": 4812122,
+      "sha256": "1ac328a6a7e2d6e0a64f890501d1f7dc147f9953d4edf7e4bda53a7506998266",
+      "maxZoom": 13,
+      "bounds": [
+        16.185650917232895,
+        43.320337765001796,
+        16.681015082767107,
+        43.679662234998204
+      ]
+    },
+    {
+      "id": "st-georges-grenada",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/st-georges-grenada.050e6023e733c393d5b05117d4ccf8633ade2b6a7ffba43e4db8f95fc20de71c.pmtiles",
+      "byteLength": 856690,
+      "sha256": "050e6023e733c393d5b05117d4ccf8633ade2b6a7ffba43e4db8f95fc20de71c",
+      "maxZoom": 13,
+      "bounds": [
+        -61.93371014265334,
+        11.870337765001798,
+        -61.56628985734666,
+        12.229662234998203
+      ]
+    },
+    {
+      "id": "st-johns-antigua",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/st-johns-antigua.6de5f38641839152a538d64472a4594a518b1316b48025b793d6ee4b805e0bd5.pmtiles",
+      "byteLength": 892607,
+      "sha256": "6de5f38641839152a538d64472a4594a518b1316b48025b793d6ee4b805e0bd5",
+      "maxZoom": 13,
+      "bounds": [
+        -62.037988737472226,
+        16.937004765001795,
+        -61.66201126252778,
+        17.296329234998204
+      ]
+    },
+    {
+      "id": "st-thomas",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/st-thomas.07f2ddb8217969f5609595f1f9657d20e630f27d51fed6fefb4873b75440ee5b.pmtiles",
+      "byteLength": 723318,
+      "sha256": "07f2ddb8217969f5609595f1f9657d20e630f27d51fed6fefb4873b75440ee5b",
+      "maxZoom": 13,
+      "bounds": [
+        -65.12262028402931,
+        18.170337765001797,
+        -64.7440457159707,
+        18.529662234998206
+      ]
+    },
+    {
+      "id": "stockholm",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/stockholm.43a29f6533cb3b10faaa0e396a07a4f1a2bb1a17202f97b87b33734c8eddedd3.pmtiles",
+      "byteLength": 13128332,
+      "sha256": "43a29f6533cb3b10faaa0e396a07a4f1a2bb1a17202f97b87b33734c8eddedd3",
+      "maxZoom": 13,
+      "bounds": [
+        17.69775052742549,
+        59.1536707650018,
+        18.40224947257451,
+        59.51299523499821
+      ]
+    },
+    {
+      "id": "subic-bay",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/subic-bay.7631cc193632dad0f2862164b2ade091dcae989ef897df7f7547288ecdbb8b33.pmtiles",
+      "byteLength": 2361745,
+      "sha256": "7631cc193632dad0f2862164b2ade091dcae989ef897df7f7547288ecdbb8b33",
+      "maxZoom": 13,
+      "bounds": [
+        120.08083964299166,
+        14.620337765001798,
+        120.45249435700833,
+        14.979662234998203
+      ]
+    },
+    {
+      "id": "svolvaer",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/svolvaer.95cda1796a0727180b21a5d1e079c5071dd141ac10a9c0839b44a3fde67a2721.pmtiles",
+      "byteLength": 3214923,
+      "sha256": "95cda1796a0727180b21a5d1e079c5071dd141ac10a9c0839b44a3fde67a2721",
+      "maxZoom": 13,
+      "bounds": [
+        14.098843087120814,
+        68.0536707650018,
+        15.067822912879185,
+        68.4129952349982
+      ]
+    },
+    {
+      "id": "sydney",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/sydney.25e6e4177dcca61b822b6cf23de351c5a448357efcc034442090b59850faef56.pmtiles",
+      "byteLength": 6698786,
+      "sha256": "25e6e4177dcca61b822b6cf23de351c5a448357efcc034442090b59850faef56",
+      "maxZoom": 13,
+      "bounds": [
+        150.98362723052838,
+        -34.046329234998204,
+        151.4163727694716,
+        -33.687004765001795
+      ]
+    },
+    {
+      "id": "tampa",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/tampa.bd27f0c7ffe62c8c7bdff50928ae469f62be64086af79ab9ded790224c404398.pmtiles",
+      "byteLength": 8749685,
+      "sha256": "bd27f0c7ffe62c8c7bdff50928ae469f62be64086af79ab9ded790224c404398",
+      "maxZoom": 13,
+      "bounds": [
+        -82.65332304448872,
+        27.737004765001796,
+        -82.24667695551129,
+        28.096329234998205
+      ]
+    },
+    {
+      "id": "taranto",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/taranto.0e2760f61fac445a41da5b513344429e3acb087c5556b7e669893478d1bab763.pmtiles",
+      "byteLength": 2338982,
+      "sha256": "0e2760f61fac445a41da5b513344429e3acb087c5556b7e669893478d1bab763",
+      "maxZoom": 13,
+      "bounds": [
+        16.96384583046717,
+        40.2870047650018,
+        17.436154169532827,
+        40.646329234998205
+      ]
+    },
+    {
+      "id": "tarragona",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/tarragona.d579740148e59861ce1da13e3c5b7f69823a8d7e78e1d6d48b19b5c340d46591.pmtiles",
+      "byteLength": 4699881,
+      "sha256": "d579740148e59861ce1da13e3c5b7f69823a8d7e78e1d6d48b19b5c340d46591",
+      "maxZoom": 13,
+      "bounds": [
+        0.994916117182147,
+        40.9203377650018,
+        1.471749882817853,
+        41.279662234998206
+      ]
+    },
+    {
+      "id": "tema",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/tema.446e4b8de08826c6705f6797bc222fd4e3a1e8f903325fbeb13514e4e1ec78b2.pmtiles",
+      "byteLength": 2427411,
+      "sha256": "446e4b8de08826c6705f6797bc222fd4e3a1e8f903325fbeb13514e4e1ec78b2",
+      "maxZoom": 13,
+      "bounds": [
+        -0.164977700033607,
+        5.452281765001796,
+        0.19608970003360698,
+        5.811606234998203
+      ]
+    },
+    {
+      "id": "tianjin",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/tianjin.4b675cc80d1d84c99ccdb4adc9cb7cf61fe23abe4de5453dd2f16f475f65340c.pmtiles",
+      "byteLength": 1757604,
+      "sha256": "4b675cc80d1d84c99ccdb4adc9cb7cf61fe23abe4de5453dd2f16f475f65340c",
+      "maxZoom": 13,
+      "bounds": [
+        117.60225972197121,
+        38.7870047650018,
+        118.06440627802878,
+        39.146329234998205
+      ]
+    },
+    {
+      "id": "timaru",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/timaru.d22f3385c4b77511993ced6c8596574ef1bab56abff877f91c13ebbcd9e86667.pmtiles",
+      "byteLength": 922343,
+      "sha256": "d22f3385c4b77511993ced6c8596574ef1bab56abff877f91c13ebbcd9e86667",
+      "maxZoom": 13,
+      "bounds": [
+        170.9985386913737,
+        -44.5796622349982,
+        171.5014613086263,
+        -44.220337765001794
+      ]
+    },
+    {
+      "id": "tokyo",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/tokyo.2f4d5bba8c9e603327e3c3d153043a4df8e3c8b91dffb6416ae051a55e6dda18.pmtiles",
+      "byteLength": 13827809,
+      "sha256": "2f4d5bba8c9e603327e3c3d153043a4df8e3c8b91dffb6416ae051a55e6dda18",
+      "maxZoom": 13,
+      "bounds": [
+        139.55024905119353,
+        35.437561765001796,
+        139.99226294880646,
+        35.796886234998205
+      ]
+    },
+    {
+      "id": "toulon",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/toulon.88f49740ad622ace4a8ad31f95f31e44cbf633efcdfda6a1987f136f02818bb3.pmtiles",
+      "byteLength": 4299282,
+      "sha256": "88f49740ad622ace4a8ad31f95f31e44cbf633efcdfda6a1987f136f02818bb3",
+      "maxZoom": 13,
+      "bounds": [
+        5.670609047198475,
+        42.9203377650018,
+        6.1627249528015255,
+        43.279662234998206
+      ]
+    },
+    {
+      "id": "trieste",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/trieste.720e849ba8262aeb9172cfd27bfcfcda3d76d1ceb6a986bb6b8e9a9888f196e3.pmtiles",
+      "byteLength": 14452918,
+      "sha256": "720e849ba8262aeb9172cfd27bfcfcda3d76d1ceb6a986bb6b8e9a9888f196e3",
+      "maxZoom": 13,
+      "bounds": [
+        13.488982446049866,
+        45.4713377650018,
+        14.003017553950135,
+        45.83066223499821
+      ]
+    },
+    {
+      "id": "tromso",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/tromso.0f9383e2163fc230736ed6a896ab31c485e5dbc858f17aeabe146e7b0919e0b5.pmtiles",
+      "byteLength": 5317832,
+      "sha256": "0f9383e2163fc230736ed6a896ab31c485e5dbc858f17aeabe146e7b0919e0b5",
+      "maxZoom": 13,
+      "bounds": [
+        18.450030974623655,
+        69.4703377650018,
+        19.483303025376348,
+        69.82966223499821
+      ]
+    },
+    {
+      "id": "trondheim",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/trondheim.6479815f21d12df2e9f24dca6f7c96d3e12a103904cbd061b882da0d38618ef1.pmtiles",
+      "byteLength": 8578898,
+      "sha256": "6479815f21d12df2e9f24dca6f7c96d3e12a103904cbd061b882da0d38618ef1",
+      "maxZoom": 13,
+      "bounds": [
+        9.999742240984371,
+        63.268670765001794,
+        10.803591759015628,
+        63.6279952349982
+      ]
+    },
+    {
+      "id": "troon",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/troon.dfa9481a082ad81f837a2377765fad4ade110246836a4e6d7c637bd6a0c7dca0.pmtiles",
+      "byteLength": 4653208,
+      "sha256": "dfa9481a082ad81f837a2377765fad4ade110246836a4e6d7c637bd6a0c7dca0",
+      "maxZoom": 13,
+      "bounds": [
+        -5.000933169741254,
+        55.37033776500179,
+        -4.365732830258747,
+        55.7296622349982
+      ]
+    },
+    {
+      "id": "ushuaia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/ushuaia.b60039a26d1f57293676990b1f1c977c0eb3236d0ed5e0026f510c7c3cf6789f.pmtiles",
+      "byteLength": 2058980,
+      "sha256": "b60039a26d1f57293676990b1f1c977c0eb3236d0ed5e0026f510c7c3cf6789f",
+      "maxZoom": 13,
+      "bounds": [
+        -68.61180826470971,
+        -54.99632923499821,
+        -67.98819173529029,
+        -54.6370047650018
+      ]
+    },
+    {
+      "id": "valencia",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/valencia.20d4482ee1d640f105283006f8b0012f00bb2c8967565d25f113e9ac39b374fa.pmtiles",
+      "byteLength": 4672633,
+      "sha256": "20d4482ee1d640f105283006f8b0012f00bb2c8967565d25f113e9ac39b374fa",
+      "maxZoom": 13,
+      "bounds": [
+        -0.5493360421997361,
+        39.2703377650018,
+        -0.08399795780026384,
+        39.62966223499821
+      ]
+    },
+    {
+      "id": "valletta",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/valletta.a8bec1bb5d6fb3866bd3d3981a4caca72f6426e15983ba347469bf345ceb7e39.pmtiles",
+      "byteLength": 2063433,
+      "sha256": "a8bec1bb5d6fb3866bd3d3981a4caca72f6426e15983ba347469bf345ceb7e39",
+      "maxZoom": 13,
+      "bounds": [
+        14.29487317357482,
+        35.720337765001794,
+        14.73846082642518,
+        36.0796622349982
+      ]
+    },
+    {
+      "id": "valparaiso",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/valparaiso.20e02256436a800c79c50bc837ea195e9edc18e4a44406af9d8e89dea9a30aaa.pmtiles",
+      "byteLength": 3219645,
+      "sha256": "20e02256436a800c79c50bc837ea195e9edc18e4a44406af9d8e89dea9a30aaa",
+      "maxZoom": 13,
+      "bounds": [
+        -71.83097065564185,
+        -33.2129952349982,
+        -71.40236334435816,
+        -32.853670765001795
+      ]
+    },
+    {
+      "id": "vancouver",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/vancouver.f7b1fdaf5aa724e3dbd9086e9ea37b136ce29533e3bac0becee5de25af4a445b.pmtiles",
+      "byteLength": 6985795,
+      "sha256": "f7b1fdaf5aa724e3dbd9086e9ea37b136ce29533e3bac0becee5de25af4a445b",
+      "maxZoom": 13,
+      "bounds": [
+        -123.38753813555451,
+        49.1087327650018,
+        -122.83663986444549,
+        49.468057234998206
+      ]
+    },
+    {
+      "id": "venice",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/venice.8cdeaddc9018673dc2b0dd883b478f041dcc1174944cc9e99a88d98d1c78ec22.pmtiles",
+      "byteLength": 5402903,
+      "sha256": "8cdeaddc9018673dc2b0dd883b478f041dcc1174944cc9e99a88d98d1c78ec22",
+      "maxZoom": 13,
+      "bounds": [
+        12.1773841651803,
+        45.23700476500179,
+        12.689281834819699,
+        45.5963292349982
+      ]
+    },
+    {
+      "id": "vieux-fort",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/vieux-fort.ab24b6d6d09cf94f54cb53b64f937788a581db9ce8fe0180c21c896fb2732442.pmtiles",
+      "byteLength": 867344,
+      "sha256": "ab24b6d6d09cf94f54cb53b64f937788a581db9ce8fe0180c21c896fb2732442",
+      "maxZoom": 13,
+      "bounds": [
+        -61.151603592573274,
+        13.537004765001797,
+        -60.78173040742673,
+        13.896329234998202
+      ]
+    },
+    {
+      "id": "villefranche",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/villefranche.65b63895a5e7f0f337b283b4f4f40f798007e998d933b495c936ff7aa18bc9df.pmtiles",
+      "byteLength": 4783680,
+      "sha256": "65b63895a5e7f0f337b283b4f4f40f798007e998d933b495c936ff7aa18bc9df",
+      "maxZoom": 13,
+      "bounds": [
+        7.068160223426951,
+        43.5203377650018,
+        7.565173776573048,
+        43.87966223499821
+      ]
+    },
+    {
+      "id": "visakhapatnam",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/visakhapatnam.0c07abdc26f748d2c15eebde8b7f95a24c746c3bac5124d9cd8b77b2cfb6c4c8.pmtiles",
+      "byteLength": 1904928,
+      "sha256": "0c07abdc26f748d2c15eebde8b7f95a24c746c3bac5124d9cd8b77b2cfb6c4c8",
+      "maxZoom": 13,
+      "bounds": [
+        83.11142770172202,
+        17.503670765001797,
+        83.48857229827797,
+        17.862995234998206
+      ]
+    },
+    {
+      "id": "warnemunde",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/warnemunde.2b20a602db950a05b6f5c472e22402c05f7354a1575466e3a11d007d806b4484.pmtiles",
+      "byteLength": 6000709,
+      "sha256": "2b20a602db950a05b6f5c472e22402c05f7354a1575466e3a11d007d806b4484",
+      "maxZoom": 13,
+      "bounds": [
+        11.774314966837453,
+        53.998241765001794,
+        12.388261033162548,
+        54.3575662349982
+      ]
+    },
+    {
+      "id": "whittier",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/whittier.623908eb716300ae04d22a2d772d94ae40e0be5b4eeed7e528c28618faaf391e.pmtiles",
+      "byteLength": 1114215,
+      "sha256": "623908eb716300ae04d22a2d772d94ae40e0be5b4eeed7e528c28618faaf391e",
+      "maxZoom": 13,
+      "bounds": [
+        -149.06246123667503,
+        60.5986707650018,
+        -148.32642676332497,
+        60.95799523499821
+      ]
+    },
+    {
+      "id": "willemstad",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/willemstad.a8a36cec4f6869a13df807ba07b05e98d6750e19d72f4af85d8baece96c4948f.pmtiles",
+      "byteLength": 1293845,
+      "sha256": "a8a36cec4f6869a13df807ba07b05e98d6750e19d72f4af85d8baece96c4948f",
+      "maxZoom": 13,
+      "bounds": [
+        -69.11708890896881,
+        11.937004765001797,
+        -68.7495770910312,
+        12.296329234998202
+      ]
+    },
+    {
+      "id": "xiamen",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/xiamen.878fae3a25d42de58ba8439ae496768674ce64c70e5193b24a077b32d61fef3b.pmtiles",
+      "byteLength": 3526688,
+      "sha256": "878fae3a25d42de58ba8439ae496768674ce64c70e5193b24a077b32d61fef3b",
+      "maxZoom": 13,
+      "bounds": [
+        117.86930598417375,
+        24.270337765001795,
+        118.26402801582624,
+        24.629662234998204
+      ]
+    },
+    {
+      "id": "yokohama",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/yokohama.07282cdd23d1969d3bae856a0245c1af5262ff6ee082417de27027d9de65b519.pmtiles",
+      "byteLength": 10821796,
+      "sha256": "07282cdd23d1969d3bae856a0245c1af5262ff6ee082417de27027d9de65b519",
+      "maxZoom": 13,
+      "bounds": [
+        139.42739091538937,
+        35.272280765001796,
+        139.86849508461063,
+        35.631605234998204
+      ]
+    },
+    {
+      "id": "zeebrugge",
+      "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/zeebrugge.78c8385475982979a0e2765bd3987bb1a329dcf123b20670ebce5549a72df188.pmtiles",
+      "byteLength": 6546800,
+      "sha256": "78c8385475982979a0e2765bd3987bb1a329dcf123b20670ebce5549a72df188",
+      "maxZoom": 13,
+      "bounds": [
+        2.9124431235373773,
+        51.1536707650018,
+        3.487556876462623,
+        51.51299523499821
+      ]
+    }
+  ],
+  "allPorts": {
+    "id": "all-ports",
+    "url": "https://github.com/xcv58/cruise-companion-maps/releases/download/v2026.10.30.1/all-ports.f85b81a267000ee8caa9e8b3740e9ef08ffc73d61f24cdeac4e5f10038eb50a4.pmtiles",
+    "byteLength": 449486508,
+    "sha256": "f85b81a267000ee8caa9e8b3740e9ef08ffc73d61f24cdeac4e5f10038eb50a4",
+    "maxZoom": 12,
+    "bounds": null
+  }
+}
